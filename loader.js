@@ -5,11 +5,11 @@
   					dataType: "jsonp",
   					jsonpCallback: "zhanhui913/Pokemon:data",
   					success: function(data) {
-  						alert("success");
+  						console.log("success");
   					},
     				error: function() { // callback if there's an error
-      					c("error");
+      				console.log("error");
     				}
 				});
 			});
-    })(jQuery);
+})(jQuery);
