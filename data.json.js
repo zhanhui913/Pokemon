@@ -86,7 +86,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Butterfree",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/fKr0ng9.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -170,7 +173,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Ekans",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/9Mk4lPl.png",
+                "description":""
+            }
         ]
     },
     {
@@ -209,7 +215,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Nidoran♀",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/4FWXYiw.png",
+                "description":""
+            }
         ]
     },
     {
@@ -230,7 +239,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Nidoran♂",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/IQVCesg.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -251,7 +263,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Clefairy",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/HpTu2XR.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -282,7 +297,7 @@ window["formatPokemonJSON"]([
         "name":"Jigglypuff",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/FNTTPME.png",
+                "src":"http://i.imgur.com/6YzAnc5.png",
                 "description":"description 1"
             }
         ]
@@ -296,7 +311,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Zubat",
         "date":"",
-        "img":[
+        "img":[{
+            "src":"http://i.imgur.com/Ja0xSaF.png",
+            "description":""
+        }
         ]
     },
     {
@@ -404,7 +422,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Golduck",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/BrkPaCU.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -419,14 +440,17 @@ window["formatPokemonJSON"]([
     {
         "name":"Primeape",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/Nq7ZSza.png",
+                "description":""
+            }
         ]
     },
     {
         "name":"Growlithe",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/QCctCbc.png",
+                "src":"http://i.imgur.com/GXfBpR2.png",
                 "description":"description 1"
             }
         ]
@@ -446,7 +470,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Poliwhirl",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/UhDOZdN.png",
+                "description":""
+            }
         ]
     },
     {
@@ -468,7 +495,7 @@ window["formatPokemonJSON"]([
         "name":"Kadabra",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/xLgZnu7.png",
+                "src":"http://i.imgur.com/K2AKRa2.png",
                 "description":"description 1"
             }
         ]
@@ -482,13 +509,19 @@ window["formatPokemonJSON"]([
     {
         "name":"Machop",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/vfTa94g.png",
+                "description":""
+            }
         ]
     },
     {
         "name":"Machoke",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/klB7ewW.png",
+                "description":""
+            }
         ]
     },
     {
@@ -503,7 +536,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Bellsprout",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/HAD4yNx.png",
+                "description":""
+            }
         ]
     },
     {
@@ -635,7 +671,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Dewgong",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/mle7WZh.png",
+                "description":""
+            }
         ]
     },
     {
@@ -665,13 +704,19 @@ window["formatPokemonJSON"]([
     {
         "name":"Gastly",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/EVeLNr9.png",
+                "description":""
+            }
         ]
     },    
     {
         "name":"Haunter",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/mYWXP2A.png",
+                "description":""
+            }
         ]
     },
     {
@@ -695,7 +740,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Drowzee",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/oYSsVfz.png",
+                "description":""
+            }
         ]
     },
     {
@@ -717,7 +765,7 @@ window["formatPokemonJSON"]([
         "name":"Kingler",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/JMsOekZ.png",
+                "src":"http://i.imgur.com/xm2n7vr.png",
                 "description":"description 1"
             }
         ]
@@ -764,7 +812,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Marowak",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/HYp3wbo.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -1001,7 +1052,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Porygon",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/IMR5x3f.png",
+                "description":""
+            }
         ]
     },
     {
@@ -1092,7 +1146,7 @@ window["formatPokemonJSON"]([
         "name":"Dragonite",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/JdBg7mR.png",
+                "src":"http://i.imgur.com/7kpDRT7.png",
                 "description":"description 1"
             }
         ]
