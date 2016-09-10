@@ -1,14 +1,20 @@
 (function($){
     $(document).ready(function(){
         $.ajax({
+            type: 'GET',
             url: "http://zhanhui913.github.io/Pokemon/data.json.js",
+            contentType: 'application/json; charset=utf-8',
             dataType: "jsonp",
-            jsonpCallback: "zhanhui913/Pokemon:data",
-            success: function(data) {
-                console.log("success");
+            jsonpCallback: "formatPokemonJSON",
+            timeout: 5000,
+            crossDomain: true,
+            success: function(json) {
+                console.log("success : "+json);
             },
-            error: function() { // callback if there's an error
-                console.log("error");
+            error: function (request, textStatus, errorThrown) {
+                console.log(request.responseText);
+                console.log(textStatus);
+                console.log(errorThrown);
             }
         });
     });
