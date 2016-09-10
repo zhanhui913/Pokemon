@@ -8,7 +8,7 @@ window["formatPokemonJSON"](
             ]
         },
         {
-            "name":"zhan1"
+            "name":"zhan1",
             "img":[{
                     "src":"sample.png",
                     "src":"sample1.png"
@@ -16,7 +16,7 @@ window["formatPokemonJSON"](
             ]
         },
         {
-            "name":"zhan2"
+            "name":"zhan2",
             "img":[{}]
         }
     ]
