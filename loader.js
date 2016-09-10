@@ -11,7 +11,7 @@
             success: function(json) {
                 console.log("success : ");
                 $.each(json, function(i, el) {
-                    console.log(el.name+" has "+el.img.size()+" images");
+                    console.log(el.name+" has "+el.img.length+" images");
                 });
             },
             error: function (request, textStatus, errorThrown) {

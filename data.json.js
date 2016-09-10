@@ -9,15 +9,18 @@ window["formatPokemonJSON"](
         },
         {
             "name":"zhan1",
-            "img":[{
+            "img":[
+                {
                     "src":"sample.png",
+                },
+                {
                     "src":"sample1.png"
                 }
             ]
         },
         {
             "name":"zhan2",
-            "img":[{}]
+            "img":[]
         }
     ]
 );
