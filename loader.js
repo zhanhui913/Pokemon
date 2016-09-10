@@ -10,9 +10,9 @@
             crossDomain: true,
             success: function(json) {
                 console.log("success : ");
-                for (var key in json) {
-                    console.log("Name : "+json.name);
-                }
+                $.each(json, function(i, el) {
+                    console.log(el.name);
+                });
             },
             error: function (request, textStatus, errorThrown) {
                 console.log(request.responseText);
