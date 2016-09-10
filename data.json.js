@@ -1,3 +1,3 @@
 {
-	name : "Zhan1"
+	"name" : "Zhan1"
 }
