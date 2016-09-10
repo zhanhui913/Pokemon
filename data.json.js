@@ -1,4 +1,4 @@
-window["STRd6/strd6.github.io:master"]({
+window["formatPokemonJSON"]({
   "source": {
     "CNAME": {
       "path": "CNAME",
