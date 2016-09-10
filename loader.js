@@ -9,7 +9,10 @@
             timeout: 5000,
             crossDomain: true,
             success: function(json) {
-                console.log("success : "+json);
+                console.log("success : ");
+                for (var key in json) {
+                    console.log("Name : "+json.name);
+                }
             },
             error: function (request, textStatus, errorThrown) {
                 console.log(request.responseText);
