@@ -1152,7 +1152,7 @@ window["formatPokemonJSON"]([
         ]
     },
     {
-        "name":"Mewteo",
+        "name":"Mewtwo",
         "date":"",
         "img":[
         ]

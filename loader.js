@@ -13,8 +13,13 @@
                 var $content = $("#pokemonContent");
 
                 console.log("success");
+
+                var pokemonCount = 0;
+
                 //bootstrap
                 $.each(json, function(i, el) {
+                    pokemonCount++;
+
                     console.log(el.name+" has "+el.img.length+" images");
 
                     
@@ -30,18 +35,27 @@
                     var w = imgObj.width;
 
 
-                    var s = "<!--" + el.name + " ("+w+","+h+ ") -->\n<div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>\n<a href=" + img + " class='pop-up'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + img + " alt=''>\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
+                    var s = "<!--" + el.name + " ("+w+","+h+ ") -->\n<div class='pokemonItem col-lg-3 col-md-4 col-sm-6 col-xs-12'>\n<a href=" + img + " class='pop-up'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + img + " alt=''>\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
+                    
 
 
 
 
-
-
-                    $content.append(s);
-
-
+                    if(pokemonCount % 2 == 0){
+                        s += "<div class='clearfix col-sm-12 visible-sm'></div>";
+                    }else if(pokemonCount % 3 == 0){
+                        s += "<div class='clearfix col-md-12 visible-md'></div>";
+                    }else if(pokemonCount % 4 == 0){
+                        s += "<div class='clearfix col-lg-12 visible-lg'></div>";
+                    }
+                    
+                    $content.append(s);  
                     //put this on every new  row
-                    "<div class='clearfix col-lg-12 visible-lg'></div>"
+ /*                   "<div class='clearfix col-lg-12 visible-lg'></div>"
+
+                    "<div class='clearfix col-xs-12 visible-xs'></div>"
+                    "<div class='clearfix col-sm-12 visible-md visible-sm'></div>"
+*/
 
                 });
 
@@ -54,5 +68,22 @@
                 console.log(errorThrown);
             }
         });
+
+
+
+var row=$('#pokemonContent');
+$.each(row, function() {
+    var maxh=0;
+    $.each($(this).find('div[class^="col-"]'), function() {
+        if($(this).height() > maxh){
+            maxh=$(this).height();
+            console.log(maxh);
+        }
+    });
+    $.each($(this).find('div[class^="col-"]'), function() {
+        $(this).height(maxh);
+    });
+});
+
     });
 })(jQuery);

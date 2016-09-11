@@ -720,9 +720,14 @@ h3 > .fa {
 }
 
 #footer {
-	background: #141414;
+	/*background: #159957;
 	padding: 20px 0;
 	color: #FFF;
+	*/
+	color: #FFF;
+	padding: 20px 0;
+  	background-color: #159957;
+  	background-image: linear-gradient(120deg, #155799, #159957); 
 }
 
 #footer .copy {
