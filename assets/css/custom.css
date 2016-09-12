@@ -27,9 +27,15 @@
 }
 
 
+.pokemonRow {
+    -webkit-column-width: 17em;
+       -moz-column-width: 17em;
+        -ms-column-width: 17em;
+         -o-column-width: 17em;
+            column-width: 17em;
+}
+
 .pokemonItem {
-    border-color: rgba(100, 255, 255, 0.3);
-    height:auto;
-    max-width:100%;
-    display:block;
+    display: block;
+    width:100%;
 }
