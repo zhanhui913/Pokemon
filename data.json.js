@@ -80,7 +80,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Metapod",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/g9Um1UU.png",
+                "description":""
+            }
         ]
     },
     {
@@ -347,7 +350,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Vileplume",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/BmgsfSF.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -404,7 +410,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Meowth",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/qkKvFjz.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -536,7 +545,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Bellsprout",
         "date":"",
-        "img":[{
+        "img":[
+            {
+                "src":"http://i.imgur.com/byibPvU.png",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/HAD4yNx.png",
                 "description":""
             }
@@ -567,6 +580,9 @@ window["formatPokemonJSON"]([
         "name":"Tentacruel",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/uEP94n4.png",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/wwtvAkF.png",
                 "description":"description 1"
             }
@@ -680,7 +696,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Grimer",
         "date":"",
-        "img":[
+        "img":[{
+            "src":"http://i.imgur.com/dCUqs64.png",
+            "description":""
+            }
         ]
     },    
     {
@@ -698,7 +717,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Cloyster",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/cyS3O83.png",
+                "description":""
+            }
         ]
     },
     {
@@ -837,6 +859,9 @@ window["formatPokemonJSON"]([
         "name":"Lickitung",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/U8iQD4S.png",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/d9hZCKq.png",
                 "description":"description 1"
             }
@@ -846,6 +871,9 @@ window["formatPokemonJSON"]([
         "name":"Koffing",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/h3orGwd.png",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/l0XkR9S.png",
                 "description":"description 1"
             }
@@ -869,7 +897,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Rhydon",
         "date":"",
-        "img":[
+        "img":[{
+            "src":"http://i.imgur.com/KKbI0UJ.png",
+            "description":""
+        }
         ]
     },    
     {
@@ -1034,7 +1065,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Vaporeon",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/oFJgHgc.png",
+                "description":""
+            }
         ]
     },
     {
@@ -1101,6 +1135,9 @@ window["formatPokemonJSON"]([
         "name":"Snorlax",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/u8LsLan.png",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/X44N5N8.png",
                 "description":"description 1"
             }
