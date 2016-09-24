@@ -59,13 +59,19 @@ window["formatPokemonJSON"]([
         "img":[{
                 "src":"http://i.imgur.com/snmqzf1.png",
                 "description":"description 1"
+            },{
+                "src":"http://i.imgur.com/ttPwaH0.png",
+                "description":""
             }
         ]
     },    
     {
         "name":"Blastoise",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/PAKaS5P.png",
+                "description":""
+            }
         ]
     },
     {
@@ -129,6 +135,9 @@ window["formatPokemonJSON"]([
         "name":"Pidgeotto",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/56FDqsO.jpg",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/YdPlCKq.png",
                 "description":"description 1"
             }
@@ -192,6 +201,9 @@ window["formatPokemonJSON"]([
         "name":"Pikachu",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/hcrtfSh.png",
+                "description":"Trying to photobomb"
+            },{
                 "src":"http://i.imgur.com/VPISPmd.png",
                 "description":"description 1"
             }
@@ -308,7 +320,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Wigglytuff",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/d5o4gkn.png",
+                "description":""
+            }
         ]
     },
     {
@@ -404,7 +419,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Dugtrio",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/RvuK92T.jpg",
+                "description":""
+            }
         ]
     },
     {
@@ -488,7 +506,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Poliwrath",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/LKU60nL.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -496,7 +517,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ZikFUrE.png",
-                "description":"description 1"
+                "description":"Just chillin"
             }
         ]
     },
@@ -505,14 +526,21 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/K2AKRa2.png",
-                "description":"description 1"
+                "description":"Trying to cast a spell on me"
+            },{
+                "src":"http://i.imgur.com/a8xcWWw.png",
+                "description":"Enjoying some flowers"
+
             }
         ]
     },
     {
         "name":"Alakazam",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/hFhtvNK.png",
+                "description":"playing with some magic"
+            }
         ]
     },    
     {
@@ -559,6 +587,10 @@ window["formatPokemonJSON"]([
         "name":"Weepinbell",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/ymSWhyr.png",
+                "description":""
+            },
+            {
                 "src":"http://i.imgur.com/uAPqPkM.png",
                 "description":"description 1"
             }
@@ -600,7 +632,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Graveler",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/KFyAbox.png",
+                "description":""
+            }
         ]
     },    
     {
@@ -615,6 +650,9 @@ window["formatPokemonJSON"]([
         "img":[{
                 "src":"http://i.imgur.com/UaQzypH.png",
                 "description":"description 1"
+            },{
+                "src":"http://i.imgur.com/nCJvm1A.png",
+                "description":""
             }
         ]
     },
@@ -882,7 +920,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Weezing",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/Yp1iVyJ.png",
+                "description":""
+            }
         ]
     },
     {
@@ -906,7 +947,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Chansey",
         "date":"",
-        "img":[
+        "img":[{
+            "src":"http://i.imgur.com/jgDp5wv.png",
+            "description":"Offering first aid in the streets"
+        }
         ]
     },
     {
@@ -1011,7 +1055,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Pinsir",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/Bcgxwha.png",
+                "description":"Just being angry"
+            }
         ]
     },
     {
@@ -1020,6 +1067,9 @@ window["formatPokemonJSON"]([
         "img":[{
                 "src":"http://i.imgur.com/0oudHad.png",
                 "description":"description 1"
+            },{
+                "src":"http://i.imgur.com/VprBlS3.png",
+                "description":""
             }
         ]
     },    
@@ -1089,6 +1139,9 @@ window["formatPokemonJSON"]([
         "img":[{
                 "src":"http://i.imgur.com/IMR5x3f.png",
                 "description":""
+            },{
+                "src":"http://i.imgur.com/093j7cK.png",
+                "description":"Burning in the heat"
             }
         ]
     },
@@ -1119,7 +1172,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Kabutops",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/PFyZXOZ.png",
+                "description":""
+            }
         ]
     },
     {
@@ -1128,6 +1184,12 @@ window["formatPokemonJSON"]([
         "img":[{
                 "src":"http://i.imgur.com/FAOMgat.png",
                 "description":"description 1"
+            },{
+                "src":"http://i.imgur.com/EtKvl5C.png",
+                "description":""
+            },{
+                "src":"http://i.imgur.com/Io6f9pg.png",
+                "description":""
             }
         ]
     },    
@@ -1140,6 +1202,12 @@ window["formatPokemonJSON"]([
             },{
                 "src":"http://i.imgur.com/X44N5N8.png",
                 "description":"description 1"
+            },{
+                "src":"http://i.imgur.com/kNDvu1B.png",
+                "description":""
+            },{
+                "src":"http://i.imgur.com/l8v21XA.png",
+                "description":"Out enjoying some fresh air"
             }
         ]
     },
@@ -1184,7 +1252,16 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/7kpDRT7.png",
-                "description":"description 1"
+                "description":"By Robson street"
+            },{
+                "src":"http://i.imgur.com/JdBg7mR.png",
+                "description":"First Dragonite caught in the wild"
+            },{
+                "src":"http://i.imgur.com/C6Q4y29.png",
+                "description":"In Pacific Center Mall"
+            },{
+                "src":"http://i.imgur.com/wJlaOYZ.png",
+                "description":"Highest caught CP at 2967 and at 89% IV"
             }
         ]
     },
