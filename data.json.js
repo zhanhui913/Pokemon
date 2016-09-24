@@ -539,7 +539,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/hFhtvNK.png",
-                "description":"playing with some magic"
+                "description":"Playing with some magic"
             }
         ]
     },    
