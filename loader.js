@@ -49,9 +49,7 @@
                 });
 
 
-                $('#pokemonContent').imagesLoaded( function() {
-                    // images have loaded
-                });
+
 
 /*
                 $.each(json, function(i, el){

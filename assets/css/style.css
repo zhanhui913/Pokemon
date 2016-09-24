@@ -472,7 +472,7 @@ h3 > .fa {
 
 .navbar-color,
 .custom-collapse {
-	background: #FFF;
+	/*background: #159957;*/
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
 	padding: 0;
 }
@@ -483,7 +483,7 @@ h3 > .fa {
 .navbar-color .navbar-nav .dropdown-menu > li > a,
 .custom-collapse .navbar-nav > li > a,
 .custom-collapse .navbar-nav .dropdown-menu > li > a {
-	color: #222;
+	color: #fff;
 }
 
 .navbar-color .navbar-nav > li.active {
@@ -500,7 +500,7 @@ h3 > .fa {
 
 .navbar-color .navbar-toggle .icon-bar,
 .custom-collapse .navbar-toggle .icon-bar {
-	background: #222;
+	background: #fff;
 }
 
 /* ---------------------------------------------- /*
