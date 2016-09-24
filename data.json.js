@@ -696,7 +696,7 @@ window["formatPokemonJSON"]([
         ]
     },    
     {
-        "name":"Farfetch'd",
+        "name":"Farfetch d",
         "date":"",
         "img":[
         ]
