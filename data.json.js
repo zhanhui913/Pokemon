@@ -1017,7 +1017,7 @@ window["formatPokemonJSON"]([
         ]
     },
     {
-        "name":"Mr. Mime",
+        "name":"Mr Mime",
         "date":"",
         "img":[
         ]
