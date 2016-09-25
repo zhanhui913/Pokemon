@@ -144,9 +144,6 @@ window["formatPokemonJSON"]([
         "name":"Pidgeotto",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/56FDqsO.jpg",
-                "description":""
-            },{
                 "src":"http://i.imgur.com/YdPlCKq.png",
                 "description":"description 1"
             }
@@ -156,6 +153,9 @@ window["formatPokemonJSON"]([
         "name":"Pidgeot",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/56FDqsO.jpg",
+                "description":""
+            },{
                 "src":"http://i.imgur.com/jiNMH7S.png",
                 "description":"description 1"
             }
