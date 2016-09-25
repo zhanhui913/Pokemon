@@ -14,38 +14,25 @@
 
                 console.log("success");
 
-                var pokemonCount = 0;
-
                 var imageList = new Array();
 
                 //bootstrap
                 $.each(json, function(i, el) {
-                    pokemonCount++;
 
                     console.log(el.name+" has "+el.img.length+" images");
 
                     var img = (el.img.length > 0) ? el.img[0].src : "images/placeholder.png" ;
+                    var img = (el.img.length > 0) ? el.img[0].src : null ;
                     //var img =  "images/placeholder.png" ;
                     var description = (el.img.length > 0) ? el.img[0].description : "NA";
                     var date = (el.date == null) ? "NA" : el.date;
 
-
                     var s = "<!--" + el.name + " -->\n<div class='pokemonItem col-lg-3 col-md-4 col-sm-6 col-xs-12'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + img + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
                     
-                    
-
- 
-
-
-
-
-                    
-                    $content.append(s);  
-
-                    //imageList[pokemonCount] = new Image();
-                    //imageList[pokemonCount].src = img;
-
-
+                    //Only add pokemon with images
+                    if(img != null){
+                        $content.append(s);  
+                    }
                 });
 
 
