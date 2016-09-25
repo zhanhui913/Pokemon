@@ -29,7 +29,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Charmander",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/IJ2v7hz.png",
+                "description":"Found by Jericho Beach"
+            }
         ]
     },
     {
@@ -78,6 +81,9 @@ window["formatPokemonJSON"]([
         "name":"Caterpie",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/XGgCZTq.png",
+                "description":"Sitting outisde of Catfe"
+            },{
                 "src":"http://i.imgur.com/57g2DB6.png",
                 "description":"description 1"
             }
@@ -97,14 +103,17 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/fKr0ng9.png",
-                "description":""
+                "description":"Sitting alone by the #7 Subway"
             }
         ]
     },    
     {
         "name":"Weedle",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/xdhs7Kg.png",
+                "description":"Hanging by the escalator"
+            }
         ]
     },
     {
@@ -155,7 +164,10 @@ window["formatPokemonJSON"]([
     {
         "name":"Rattata",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/ah0FwfR.png",
+                "description":"Protecting owner's house"
+            }
         ]
     },
     {
@@ -330,9 +342,12 @@ window["formatPokemonJSON"]([
         "name":"Zubat",
         "date":"",
         "img":[{
-            "src":"http://i.imgur.com/Ja0xSaF.png",
-            "description":""
-        }
+                "src":"http://i.imgur.com/DfjVqlq.jpg",
+                "description":""
+            },{
+                "src":"http://i.imgur.com/Ja0xSaF.png",
+                "description":""
+            }
         ]
     },
     {
