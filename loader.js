@@ -10,11 +10,30 @@
             crossDomain: true,
             success: function(json) {
 
+
+                var $fav = $("#owl-clients");
+
+                //find favourites first and add it onto the carousel
+                $.each(json, function(i, el) {
+                    if(el.img.length > 0){
+                        el.img.forEach(function(img){
+                            if(img.favourites == "true"){
+
+                                var s = "<div class='owl-item'><img src='" + img.src + "' alt=''><h4>" + el.name + "</h4><p>" + img.description + "</p></div>";
+                                $fav.append(s);
+                            }
+                        });
+                    }
+                }
+
+
+
                 var $content = $("#pokemonContent");
 
                 console.log("success");
 
                 var imageList = new Array();
+
 
                 //bootstrap
                 $.each(json, function(i, el) {
@@ -65,11 +84,5 @@
                 console.log(errorThrown);
             }
         });
-
-
-        $('.carousel').carousel({
-            interval: 5000
-        })
-
     });
 })(jQuery);
