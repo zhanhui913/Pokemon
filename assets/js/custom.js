@@ -93,10 +93,10 @@
 		/* ---------------------------------------------- */
 
 		$("#owl-clients").owlCarousel({
-			items : 4,
-			slideSpeed : 300,
-			paginationSpeed : 400,
-			autoPlay: 5000
+      		slideSpeed : 300,
+      		paginationSpeed : 400,
+      		singleItem:true,
+      		autoPlay: 5000
 		});
 
 		/* ---------------------------------------------- /*

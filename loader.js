@@ -9,6 +9,7 @@
             timeout: 5000,
             crossDomain: true,
             success: function(json) {
+                console.log("success");
 
 
                 var $fav = $("#owl-clients");
@@ -16,26 +17,26 @@
                 //find favourites first and add it onto the carousel
                 $.each(json, function(i, el) {
                     if(el.img.length > 0){
-                        el.img.forEach(function(img){
-                            if(img.favourites == "true"){
+                        for(var i = 0; i < el.img.length; i++){
+                            if(el.img[i].favourite == "true"){
+                                var s = "<div class='owl-item'>\n<img src='" + el.img[i].src + "' alt=''>\n<h4>" + el.name + "</h4>\n<p>" + el.img[i].description + "</p>\n</div>";
+                                console.log(el.name+" -> "+el.img[i].description+" is true");    
 
-                                var s = "<div class='owl-item'><img src='" + img.src + "' alt=''><h4>" + el.name + "</h4><p>" + img.description + "</p></div>";
-                                $fav.append(s);
+                                $fav.data('owlCarousel').addItem(s);
                             }
-                        });
+                        }
                     }
-                }
+                });
+
+                
+
 
 
 
                 var $content = $("#pokemonContent");
-
-                console.log("success");
-
-                var imageList = new Array();
-
-
-                //bootstrap
+                //var imageList = new Array();
+                
+                //images
                 $.each(json, function(i, el) {
 
                     console.log(el.name+" has "+el.img.length+" images");

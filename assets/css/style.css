@@ -330,12 +330,12 @@ a,
 
 .section, .callout {
 	position: relative;
-	padding: 60px 0;
+	padding: 50px 0;
 }
 
 .callout {
 	/*background: #F5F5F5;*/
-    background-image: url("../images/sativa.png");
+    background-image: url("../../images/sativa.png");
 }
 
 .headline {
@@ -431,12 +431,14 @@ h3 > .fa {
 /* ---------------------------------------------- */
 
 .navbar {
-	background: none;
+	background: #159957;
 	border-radius: 0;
 	border: 0;
-	padding: 20px 0;
+	padding:  0;
 	text-transform: uppercase;
 	color: #FFF !important;
+	background-color: #159957;
+  	background-image: linear-gradient(120deg, #155799, #159957); 
 }
 
 .navbar-custom .nav li a:hover, 
@@ -472,7 +474,8 @@ h3 > .fa {
 
 .navbar-color,
 .custom-collapse {
-	/*background: #159957;*/
+	background-color: #159957;
+  	background-image: linear-gradient(120deg, #155799, #159957); 
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
 	padding: 0;
 }
@@ -508,18 +511,19 @@ h3 > .fa {
 /* ---------------------------------------------- */
 
 #intro {
-	padding: 100px 0 100px 0;
+	padding: 260px 0 160px 0;
+	margin-top: 50px;		
 	text-align: center;
 	color: #FFF;
 }
 
 #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-	color: #FFF;
+	color: #159957;
 }
 
 
 #intro .container{
-	padding-bottom: 00px;
+	padding-bottom: 400px;
 }
 
 .hello {
@@ -658,6 +662,10 @@ h3 > .fa {
 
 .owl-theme .owl-controls .owl-pagination {
 	margin-top: 20px;
+}
+
+#clients {
+	margin-top: 50px;
 }
 
 /* ---------------------------------------------- /*
