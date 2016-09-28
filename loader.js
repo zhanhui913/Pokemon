@@ -12,11 +12,16 @@
                 console.log("success");
 
 
+                var sighted = 0;
+                var total = 0;
+
                 var $fav = $("#owl-clients");
 
                 //find favourites first and add it onto the carousel
                 $.each(json, function(i, el) {
+                    total++;
                     if(el.img.length > 0){
+                        sighted++;
                         for(var i = 0; i < el.img.length; i++){
                             if(el.img[i].favourite == "true"){
                                 var s = "<div class='owl-item'>\n<img src='" + el.img[i].src + "' alt=''>\n<h4>" + el.name + "</h4>\n<p>" + el.img[i].description + "</p>\n</div>";
@@ -27,9 +32,11 @@
                         }
                     }
                 });
-
+                console.log("sighted "+sighted+" out of "+total);
                 
-
+                //set total sighted
+                var $sighted = $("#pokemonCount");
+                $sighted.append(sighted+"/"+total);
 
 
 
@@ -49,6 +56,8 @@
 
                     var s = "<!--" + el.name + " -->\n<div class='pokemonItem col-lg-3 col-md-4 col-sm-6 col-xs-12'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + img + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
                     
+                    
+
                     //Only add pokemon with images
                     if(img != null){
                         $content.append(s);  

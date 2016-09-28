@@ -10,3 +10,15 @@
     display: block;
     width:100%;
 }
+
+#count {
+	text-align: right;
+}
+
+#count h3 {
+	color:#159957;
+}
+
+#count h4 {
+	color:#222;
+}
