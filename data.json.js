@@ -16,6 +16,10 @@ window["formatPokemonJSON"]([
                 "src":"http://i.imgur.com/oWYVt0l.png",
                 "description":"",
                 "favourite":"false"
+            },{
+                "src":"http://i.imgur.com/Aj3MxNO.png",
+                "description":"",
+                "favourite":"false"
             }
         ]
     },    
@@ -286,7 +290,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Nidoqueen",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/Be1UdUV.png",
+                "description":"Found this queen in my office intruding"
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -309,8 +317,12 @@ window["formatPokemonJSON"]([
         "name":"Nidoking",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/4BVhKGE.png",
+                "src":"http://i.imgur.com/M83dg9X.png",
                 "description":"",
+                "favourite":"false"
+            },{
+                "src":"http://i.imgur.com/4BVhKGE.png",
+                "description":"Caught on my leg",
                 "favourite":"false"
             }
         ]
@@ -932,7 +944,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/RaTmeOw.png",
-                "description":"",
+                "description":"Please dont self-destruct",
                 "favourite":"false"
             }
         ]
@@ -940,7 +952,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Electrode",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/DQMozxo.png",
+                "description":"Glad he didn't self-destruct"
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -982,7 +998,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Hitmonlee",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/PzgojlF.png",
+                "description":"Ready to kick me",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -990,7 +1010,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/15Pp9T3.png",
-                "description":"",
+                "description":"About to punch me",
                 "favourite":"false"
             }
         ]
@@ -1140,7 +1160,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Scyther",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/mlVTTjV.jpg",
+                "description":"Found this guy cutting up leaves",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -1247,7 +1271,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Jolteon",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/jLkuetz.png",
+                "description":"He's about to tackle me",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -1311,7 +1339,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FAOMgat.png",
-                "description":"",
+                "description":"Chillin by Canada Place",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/EtKvl5C.png",
@@ -1320,6 +1348,10 @@ window["formatPokemonJSON"]([
             },{
                 "src":"http://i.imgur.com/Io6f9pg.png",
                 "description":"",
+                "favourite":"false"
+            },{
+                "src":"http://i.imgur.com/nGrxbTD.png",
+                "description":"Chillin in the back alley by Granville and West Hasting",
                 "favourite":"false"
             }
         ]
@@ -1403,6 +1435,10 @@ window["formatPokemonJSON"]([
                 "src":"http://i.imgur.com/wJlaOYZ.png",
                 "description":"Highest caught CP at 2967 and at 89% IV",
                 "favourite":"true"
+            },{
+               "src":"http://i.imgur.com/nRYa0Un.png",
+                "description":"Lowest caught CP at 46",
+                "favourite":"false" 
             }
         ]
     },
