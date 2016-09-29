@@ -954,7 +954,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/DQMozxo.png",
-                "description":"Glad he didn't self-destruct"
+                "description":"Glad he didn't self-destruct",
                 "favourite":"false"
             }
         ]
