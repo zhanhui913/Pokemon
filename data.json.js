@@ -292,7 +292,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Be1UdUV.png",
-                "description":"Found this queen in my office intruding"
+                "description":"Found this queen in my office intruding",
                 "favourite":"false"
             }
         ]
