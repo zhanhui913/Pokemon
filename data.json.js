@@ -52,7 +52,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Charizard",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/r1wi0MN.png",
+                "description":"Finally saw this guy",
+                "favourite":"true"
+            }
         ]
     },
     {
@@ -156,7 +160,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Pidgey",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/59keNyE.jpg",
+                "description":"Blocking my way home",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -258,13 +266,21 @@ window["formatPokemonJSON"]([
     {
         "name":"Sandshrew",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/jAIzjCy.png",
+                "description":"Nothing special here",
+                "favourite":"false"
+            }
         ]
     },
     {
         "name":"Sandslash",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/IjtrYPq.png",
+                "description":"Trying to poke me",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -310,7 +326,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Nidorino",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/rnfrWcf.png",
+                "description":"Big guy by the hallway",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -360,7 +380,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Ninetales",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/b1BWbq1.png",
+                "description":"Looking fabulous as usual",
+                "favourite":"true"
+            }   
         ]
     },    
     {
@@ -1236,6 +1260,10 @@ window["formatPokemonJSON"]([
         "name":"Lapras",
         "date":"",
         "img":[{
+                "src":"http://i.imgur.com/43pZ8If.png",
+                "description":"Another beauty hanging by water fountain",
+                "favourite":"false"
+            },{
                 "src":"http://i.imgur.com/Jbr2HpT.png",
                 "description":"",
                 "favourite":"false"
