@@ -214,7 +214,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Spearow",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/WztfGhC.png",
+                "description":"",
+                "favourite":"false"
+        }
         ]
     },
     {
@@ -260,7 +264,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Raichu",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/6wYWjz7.png"
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -778,7 +786,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Rapidash",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/FwhwJXn.png",
+                "description":"On the way to Victoria",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -826,7 +838,12 @@ window["formatPokemonJSON"]([
     {
         "name":"Doduo",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/4mb81Q4.png",
+                "description":"",
+                "favourite":"false"
+
+        }
         ]
     },
     {
@@ -874,7 +891,11 @@ window["formatPokemonJSON"]([
     {
         "name":"Shellder",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/e1yxBrI.png",
+                "description":"",
+                "favourite":"false"
+        }
         ]
     },
     {
