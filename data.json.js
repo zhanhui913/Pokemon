@@ -265,7 +265,7 @@ window["formatPokemonJSON"]([
         "name":"Raichu",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/6wYWjz7.png"
+                "src":"http://i.imgur.com/6wYWjz7.png",
                 "description":"",
                 "favourite":"false"
             }
