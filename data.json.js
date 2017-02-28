@@ -1,845 +1,1014 @@
 window["formatPokemonJSON"]([
     {
+        "id":1,
         "name":"Bulbasaur",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/cWmVJDJ.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":2,
         "name":"Ivysaur",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oWYVt0l.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Aj3MxNO.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":3,
         "name":"Venusaur",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mlAqXMZ.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":4,
         "name":"Charmander",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IJ2v7hz.png",
+                "thumbnail":"",
                 "description":"Found by Jericho Beach",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":5,
         "name":"Charmeleon",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":6,
         "name":"Charizard",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/r1wi0MN.png",
+                "thumbnail":"",
                 "description":"Finally saw this guy",
                 "favourite":"true"
             }
         ]
     },
     {
+        "id":7,
         "name":"Squirtle",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/la7YesJ.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":8,
         "name":"Wartortle",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/snmqzf1.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/ttPwaH0.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":9,
         "name":"Blastoise",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PAKaS5P.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":10,
         "name":"Caterpie",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/XGgCZTq.png",
+                "thumbnail":"",
                 "description":"Sitting outisde of Catfe",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/57g2DB6.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":11,
         "name":"Metapod",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/g9Um1UU.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":12,
         "name":"Butterfree",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/fKr0ng9.png",
+                "thumbnail":"",
                 "description":"Sitting alone by the #7 Subway",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":13,
         "name":"Weedle",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/xdhs7Kg.png",
+                "thumbnail":"",
                 "description":"Hanging by the escalator",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":14,
         "name":"Kakuna",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/5DxugKw.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":15,
         "name":"Beedrill",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Y7b8V6Q.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":16,
         "name":"Pidgey",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/59keNyE.jpg",
+                "thumbnail":"",
                 "description":"Blocking my way home",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":17,
         "name":"Pidgeotto",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YdPlCKq.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":18,
         "name":"Pidgeot",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/56FDqsO.jpg",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/jiNMH7S.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":19,
         "name":"Rattata",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ah0FwfR.png",
+                "thumbnail":"",
                 "description":"Protecting owner's house",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":20,
         "name":"Raticate",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6Wq3ziu.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":21,
         "name":"Spearow",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/WztfGhC.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
         }
         ]
     },
     {
+        "id":22,
         "name":"Fearow",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CDIQY7z.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":23,
         "name":"Ekans",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/9Mk4lPl.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":24,
         "name":"Arbok",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":25,
         "name":"Pikachu",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/hcrtfSh.png",
+                "thumbnail":"",
                 "description":"Trying to photobomb",
                 "favourite":"true"
             },{
                 "src":"http://i.imgur.com/VPISPmd.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":26,
         "name":"Raichu",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6wYWjz7.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":27,
         "name":"Sandshrew",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jAIzjCy.png",
+                "thumbnail":"",
                 "description":"Nothing special here",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":28,
         "name":"Sandslash",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IjtrYPq.png",
+                "thumbnail":"",
                 "description":"Trying to poke me",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":29,
         "name":"Nidoran♀",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/4FWXYiw.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":30,
         "name":"Nidorina",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/OFkf1Bc.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":31,
         "name":"Nidoqueen",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Be1UdUV.png",
+                "thumbnail":"",
                 "description":"Found this queen in my office intruding",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":32,
         "name":"Nidoran♂",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IQVCesg.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":33,
         "name":"Nidorino",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/rnfrWcf.png",
+                "thumbnail":"",
                 "description":"Big guy by the hallway",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":34,
         "name":"Nidoking",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/M83dg9X.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/4BVhKGE.png",
+                "thumbnail":"",
                 "description":"Caught on my leg",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":35,
         "name":"Clefairy",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/HpTu2XR.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":36,
         "name":"Clefable",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oTbI58A.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":37,
         "name":"Vulpix",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CgnN9yf.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":38,
         "name":"Ninetales",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/b1BWbq1.png",
+                "thumbnail":"",
                 "description":"Looking fabulous as usual",
                 "favourite":"true"
             }   
         ]
     },    
     {
+        "id":39,
         "name":"Jigglypuff",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6YzAnc5.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":40,
         "name":"Wigglytuff",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/d5o4gkn.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":41,
         "name":"Zubat",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/DfjVqlq.jpg",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Ja0xSaF.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":42,
         "name":"Golbat",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/W4jC2bY.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":43,
         "name":"Oddish",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FvXGhPH.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":44,
         "name":"Gloom",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FMZRs9h.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":45,
         "name":"Vileplume",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/BmgsfSF.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":46,
         "name":"Paras",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CbFD2Sd.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":47,
         "name":"Parasect",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/fPOkhGi.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":48,
         "name":"Venonat",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/C6QM6bi.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":49,
         "name":"Venomoth",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/lAtjBX7.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":50,
         "name":"Diglett",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ST8BXA3.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":51,
         "name":"Dugtrio",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/RvuK92T.jpg",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":52,
         "name":"Meowth",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/qkKvFjz.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":53,
         "name":"Persian",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":54,
         "name":"Psyduck",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":55,
         "name":"Golduck",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/BrkPaCU.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":56,
         "name":"Mankey",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UBrqxDI.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":57,
         "name":"Primeape",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Nq7ZSza.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":58,
         "name":"Growlithe",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GXfBpR2.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":59,
         "name":"Arcanine",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":60,
         "name":"Poliwag",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":61,
         "name":"Poliwhirl",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UhDOZdN.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":62,
         "name":"Poliwrath",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/LKU60nL.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":63,
         "name":"Abra",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ZikFUrE.png",
+                "thumbnail":"",
                 "description":"Just chillin",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":64,
         "name":"Kadabra",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/K2AKRa2.png",
+                "thumbnail":"",
                 "description":"Trying to cast a spell on me",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/a8xcWWw.png",
+                "thumbnail":"",
                 "description":"Enjoying some flowers",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":65,
         "name":"Alakazam",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/hFhtvNK.png",
+                "thumbnail":"",
                 "description":"Playing with some magic",
                 "favourite":"true"
             }
         ]
     },    
     {
+        "id":66,
         "name":"Machop",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/vfTa94g.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":67,
         "name":"Machoke",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/klB7ewW.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":68,
         "name":"Machamp",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GDiJqft.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":69,
         "name":"Bellsprout",
         "date":"",
         "img":[
             {
                 "src":"http://i.imgur.com/byibPvU.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/HAD4yNx.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":70,
         "name":"Weepinbell",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ymSWhyr.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },
             {
                 "src":"http://i.imgur.com/uAPqPkM.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":71,
         "name":"Victreebel",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":72,
         "name":"Tentacool",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":73,
         "name":"Tentacruel",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/uEP94n4.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/wwtvAkF.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":74,
         "name":"Geodude",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YSQVDmN.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":75,
         "name":"Graveler",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/KFyAbox.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":76,
         "name":"Golem",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":77,
         "name":"Ponyta",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UaQzypH.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/nCJvm1A.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":78,
         "name":"Rapidash",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FwhwJXn.png",
+                "thumbnail":"",
                 "description":"On the way to Victoria",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":79,
         "name":"Slowpoke",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/A2r5Vxs.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":80,
         "name":"Slowbro",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/QMZDqzt.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":81,
         "name":"Magnemite",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PKJ62u2.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":82,
         "name":"Magneton",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":83,
         "name":"Farfetch d",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":84,
         "name":"Doduo",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/4mb81Q4.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
 
@@ -847,657 +1016,789 @@ window["formatPokemonJSON"]([
         ]
     },
     {
+        "id":85,
         "name":"Dodrio",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":86,
         "name":"Seel",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Z0juPBD.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":87,
         "name":"Dewgong",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mle7WZh.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":88,
         "name":"Grimer",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/dCUqs64.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":89,
         "name":"Muk",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":90,
         "name":"Shellder",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/e1yxBrI.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
         }
         ]
     },
     {
+        "id":91,
         "name":"Cloyster",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/cyS3O83.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":92,
         "name":"Gastly",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/EVeLNr9.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":93,
         "name":"Haunter",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mYWXP2A.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":94,
         "name":"Gengar",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/9gT8uyn.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":95,
         "name":"Onix",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/pS97MTU.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":96,
         "name":"Drowzee",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oYSsVfz.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":97,
         "name":"Hypno",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IprLu9e.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":98,
         "name":"Krabby",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":99,
         "name":"Kingler",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/xm2n7vr.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":100,
         "name":"Voltorb",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/RaTmeOw.png",
+                "thumbnail":"",
                 "description":"Please dont self-destruct",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":101,
         "name":"Electrode",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/DQMozxo.png",
+                "thumbnail":"",
                 "description":"Glad he didn't self-destruct",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":102,
         "name":"Exeggcute",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/wYVAsyS.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":103,
         "name":"Exeggutor",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":104,
         "name":"Cubone",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ADhyNmu.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":105,
         "name":"Marowak",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/HYp3wbo.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":106,
         "name":"Hitmonlee",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PzgojlF.png",
+                "thumbnail":"",
                 "description":"Ready to kick me",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":107,
         "name":"Hitmonchan",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/15Pp9T3.png",
+                "thumbnail":"",
                 "description":"About to punch me",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":108,
         "name":"Lickitung",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/U8iQD4S.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/d9hZCKq.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":109,
         "name":"Koffing",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/h3orGwd.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/l0XkR9S.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":110,
         "name":"Weezing",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Yp1iVyJ.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":111,
         "name":"Rhyhorn",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/T8wV7V6.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":112,
         "name":"Rhydon",
         "date":"",
         "img":[{
             "src":"http://i.imgur.com/KKbI0UJ.png",
+            "thumbnail":"",
             "description":"",
             "favourite":"false"
             }
         ]
     },    
     {
+        "id":113,
         "name":"Chansey",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jgDp5wv.png",
+                "thumbnail":"",
                 "description":"Offering first aid in the streets",
                 "favourite":"true"
             }
         ]
     },
     {
+        "id":114,
         "name":"Tangela",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":115,
         "name":"Kangaskhan",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":116,
         "name":"Horsea",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/JHu69Ly.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":117,
         "name":"Seadra",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Uz8Wfj1.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":118,
         "name":"Goldeen",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":119,
         "name":"Seaking",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/C1Ayl6c.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":120,
         "name":"Staryu",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/zm5RDG9.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":121,
         "name":"Starmie",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YOS60I9.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":122,
         "name":"Mr Mime",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":123,
         "name":"Scyther",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mlVTTjV.jpg",
+                "thumbnail":"",
                 "description":"Found this guy cutting up leaves",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":124,
         "name":"Jynx",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/lW1TJd0.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":125,
         "name":"Electabuzz",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/SFw1wx4.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":126,
         "name":"Magmar",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":127,
         "name":"Pinsir",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Bcgxwha.png",
-                "description":"Just being angry"
+                "thumbnail":"",
+                "description":"Just being angry",
+                "favourite":"false"
             }
         ]
     },
     {
+        "id":128,
         "name":"Tauros",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/0oudHad.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/VprBlS3.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":129,
         "name":"Magikarp",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":130,
         "name":"Gyarados",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/qf0u1wI.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":131,
         "name":"Lapras",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/43pZ8If.png",
+                "thumbnail":"",
                 "description":"Another beauty hanging by water fountain",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Jbr2HpT.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":132,
         "name":"Ditto",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":133,
         "name":"Eevee",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Xk9DAax.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":134,
         "name":"Vaporeon",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oFJgHgc.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":135,
         "name":"Jolteon",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jLkuetz.png",
+                "thumbnail":"",
                 "description":"He's about to tackle me",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":136,
         "name":"Flareon",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":137,
         "name":"Porygon",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IMR5x3f.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/093j7cK.png",
+                "thumbnail":"",
                 "description":"Burning in the heat",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":138,
         "name":"Omanyte",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/3h4e04V.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":139,
         "name":"Omaster",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":140,
         "name":"Kabuto",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/AlEZP6a.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":141,
         "name":"Kabutops",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PFyZXOZ.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":142,
         "name":"Aerodactyl",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FAOMgat.png",
+                "thumbnail":"",
                 "description":"Chillin by Canada Place",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/EtKvl5C.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Io6f9pg.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/nGrxbTD.png",
+                "thumbnail":"",
                 "description":"Chillin in the back alley by Granville and West Hasting",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":143,
         "name":"Snorlax",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/u8LsLan.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/X44N5N8.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/kNDvu1B.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/l8v21XA.png",
+                "thumbnail":"",
                 "description":"Out enjoying some fresh air",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":144,
         "name":"Articuno",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":145,
         "name":"Zapdos",
         "date":"",
         "img":[
         ]
     },    
     {
+        "id":146,
         "name":"Moltres",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":147,
         "name":"Dratini",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/L186e9M.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },
     {
+        "id":148,
         "name":"Dragonair",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GIjAPr2.png",
+                "thumbnail":"",
                 "description":"",
                 "favourite":"false"
             }
         ]
     },    
     {
+        "id":149,
         "name":"Dragonite",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/7kpDRT7.png",
+                "thumbnail":"",
                 "description":"By Robson street",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/JdBg7mR.png",
+                "thumbnail":"",
                 "description":"First Dragonite caught in the wild",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/C6Q4y29.png",
+                "thumbnail":"",
                 "description":"In Pacific Center Mall",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/wJlaOYZ.png",
+                "thumbnail":"",
                 "description":"Highest caught CP at 2967 and at 89% IV",
                 "favourite":"true"
             },{
                "src":"http://i.imgur.com/nRYa0Un.png",
+                "thumbnail":"",
                 "description":"Lowest caught CP at 46",
                 "favourite":"false" 
             }
         ]
     },
     {
+        "id":150,
         "name":"Mewtwo",
         "date":"",
         "img":[
         ]
     },
     {
+        "id":151,
         "name":"Mew",
         "date":"",
         "img":[
