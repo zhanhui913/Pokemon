@@ -10,7 +10,7 @@ window["formatPokemonJSON"]([
                 "favourite":"false"
             }
         ]
-    },
+    }/*,
     {
         "id":2,
         "name":"Ivysaur",
@@ -1803,5 +1803,5 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[
         ]
-    }
+    }*/
 ]);
