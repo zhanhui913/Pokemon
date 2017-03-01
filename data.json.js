@@ -10,19 +10,19 @@ window["formatPokemonJSON"]([
                 "favourite":"false"
             }
         ]
-    }/*,
+    },
     {
         "id":2,
         "name":"Ivysaur",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oWYVt0l.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/oWYVt0lb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Aj3MxNO.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Aj3MxNOb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -46,7 +46,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IJ2v7hz.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/IJ2v7hzb.png",
                 "description":"Found by Jericho Beach",
                 "favourite":"false"
             }
@@ -56,7 +56,12 @@ window["formatPokemonJSON"]([
         "id":5,
         "name":"Charmeleon",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/4aBGH2a.png",
+                "thumbnail":"http://i.imgur.com/4aBGH2ab.png",
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -65,7 +70,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/r1wi0MN.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/r1wi0MNb.png",
                 "description":"Finally saw this guy",
                 "favourite":"true"
             }
@@ -77,7 +82,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/la7YesJ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/la7YesJb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -89,12 +94,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/snmqzf1.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/snmqzf1b.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/ttPwaH0.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ttPwaH0b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -106,12 +111,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PAKaS5P.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/PAKaS5Pb.png",
                 "description":"",
                 "favourite":"false"
             }
         ]
-    },
+    }/*,
     {
         "id":10,
         "name":"Caterpie",
