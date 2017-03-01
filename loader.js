@@ -49,7 +49,10 @@
                     console.log(el.name+" has "+el.img.length+" images");
 
                     var img = (el.img.length > 0) ? el.img[0].src : "images/placeholder.png" ;
-                    var img = (el.img.length > 0) ? el.img[0].src : null ;
+                    var thumbnail = (el.img.length > 0) ? el.img[0].thumbnail : "images/placeholder.png" ;
+
+
+                    //var img = (el.img.length > 0) ? el.img[0].src : null ;
                     //var img =  "images/placeholder.png" ;
                     var description = (el.img.length > 0) ? el.img[0].description : "NA";
                     var date = (el.date == null) ? "NA" : el.date;
