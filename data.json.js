@@ -116,19 +116,19 @@ window["formatPokemonJSON"]([
                 "favourite":"false"
             }
         ]
-    }/*,
+    },
     {
         "id":10,
         "name":"Caterpie",
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/XGgCZTq.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/XGgCZTqb.png",
                 "description":"Sitting outisde of Catfe",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/57g2DB6.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/57g2DB6b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -140,7 +140,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/g9Um1UU.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/g9Um1UUb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -152,7 +152,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/fKr0ng9.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/fKr0ng9b.png",
                 "description":"Sitting alone by the #7 Subway",
                 "favourite":"false"
             }
@@ -164,7 +164,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/xdhs7Kg.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/xdhs7Kgb.png",
                 "description":"Hanging by the escalator",
                 "favourite":"false"
             }
@@ -176,7 +176,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/5DxugKw.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/5DxugKwb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -188,7 +188,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Y7b8V6Q.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Y7b8V6Qb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -200,7 +200,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/59keNyE.jpg",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/59keNyEb.jpg",
                 "description":"Blocking my way home",
                 "favourite":"false"
             }
@@ -212,7 +212,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YdPlCKq.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/YdPlCKqb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -224,12 +224,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/56FDqsO.jpg",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/56FDqsOb.jpg",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/jiNMH7S.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/jiNMH7Sb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -241,7 +241,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ah0FwfR.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ah0FwfRb.png",
                 "description":"Protecting owner's house",
                 "favourite":"false"
             }
@@ -253,7 +253,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6Wq3ziu.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/6Wq3ziub.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -265,7 +265,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/WztfGhC.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/WztfGhCb.png",
                 "description":"",
                 "favourite":"false"
         }
@@ -277,7 +277,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CDIQY7z.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/CDIQY7zb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -289,7 +289,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/9Mk4lPl.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/9Mk4lPlb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -308,12 +308,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/hcrtfSh.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/hcrtfShb.png",
                 "description":"Trying to photobomb",
                 "favourite":"true"
             },{
                 "src":"http://i.imgur.com/VPISPmd.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/VPISPmdb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -325,7 +325,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6wYWjz7.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/6wYWjz7b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -337,7 +337,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jAIzjCy.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/jAIzjCyb.png",
                 "description":"Nothing special here",
                 "favourite":"false"
             }
@@ -349,7 +349,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IjtrYPq.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/IjtrYPqb.png",
                 "description":"Trying to poke me",
                 "favourite":"false"
             }
@@ -361,7 +361,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/4FWXYiw.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/4FWXYiwb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -373,7 +373,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/OFkf1Bc.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/OFkf1Bcb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -385,7 +385,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Be1UdUV.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Be1UdUVb.png",
                 "description":"Found this queen in my office intruding",
                 "favourite":"false"
             }
@@ -397,7 +397,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IQVCesg.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/IQVCesgb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -409,7 +409,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/rnfrWcf.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/rnfrWcfb.png",
                 "description":"Big guy by the hallway",
                 "favourite":"false"
             }
@@ -421,12 +421,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/M83dg9X.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/M83dg9Xb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/4BVhKGE.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/4BVhKGEb.png",
                 "description":"Caught on my leg",
                 "favourite":"false"
             }
@@ -438,7 +438,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/HpTu2XR.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/HpTu2XRb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -450,7 +450,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oTbI58A.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/oTbI58Ab.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -462,7 +462,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CgnN9yf.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/CgnN9yfb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -474,7 +474,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/b1BWbq1.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/b1BWbq1b.png",
                 "description":"Looking fabulous as usual",
                 "favourite":"true"
             }   
@@ -486,7 +486,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/6YzAnc5.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/6YzAnc5b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -498,7 +498,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/d5o4gkn.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/d5o4gknb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -510,12 +510,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/DfjVqlq.jpg",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/DfjVqlqb.jpg",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Ja0xSaF.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Ja0xSaFb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -527,7 +527,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/W4jC2bY.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/W4jC2bYb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -539,7 +539,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FvXGhPH.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/FvXGhPHb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -551,7 +551,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FMZRs9h.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/FMZRs9hb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -563,7 +563,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/BmgsfSF.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/BmgsfSFb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -575,7 +575,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/CbFD2Sd.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/CbFD2Sdb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -587,7 +587,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/fPOkhGi.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/fPOkhGib.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -599,7 +599,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/C6QM6bi.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/C6QM6bib.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -611,7 +611,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/lAtjBX7.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/lAtjBX7b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -623,7 +623,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ST8BXA3.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ST8BXA3b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -635,7 +635,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/RvuK92T.jpg",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/RvuK92Tb.jpg",
                 "description":"",
                 "favourite":"false"
             }
@@ -647,7 +647,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/qkKvFjz.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/qkKvFjzb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -673,7 +673,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/BrkPaCU.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/BrkPaCUb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -685,7 +685,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UBrqxDI.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/UBrqxDIb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -697,7 +697,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Nq7ZSza.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Nq7ZSzab.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -709,7 +709,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GXfBpR2.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/GXfBpR2b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -735,7 +735,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UhDOZdN.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/UhDOZdNb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -747,7 +747,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/LKU60nL.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/LKU60nLb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -759,7 +759,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ZikFUrE.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ZikFUrEb.png",
                 "description":"Just chillin",
                 "favourite":"false"
             }
@@ -771,12 +771,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/K2AKRa2.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/K2AKRa2b.png",
                 "description":"Trying to cast a spell on me",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/a8xcWWw.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/a8xcWWwb.png",
                 "description":"Enjoying some flowers",
                 "favourite":"false"
             }
@@ -788,7 +788,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/hFhtvNK.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/hFhtvNKb.png",
                 "description":"Playing with some magic",
                 "favourite":"true"
             }
@@ -800,7 +800,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/vfTa94g.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/vfTa94gb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -812,7 +812,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/klB7ewW.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/klB7ewWb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -824,7 +824,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GDiJqft.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/GDiJqftb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -837,12 +837,12 @@ window["formatPokemonJSON"]([
         "img":[
             {
                 "src":"http://i.imgur.com/byibPvU.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/byibPvUb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/HAD4yNx.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/HAD4yNxb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -854,13 +854,13 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ymSWhyr.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ymSWhyrb.png",
                 "description":"",
                 "favourite":"false"
             },
             {
                 "src":"http://i.imgur.com/uAPqPkM.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/uAPqPkMb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -886,12 +886,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/uEP94n4.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/uEP94n4b.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/wwtvAkF.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/wwtvAkFb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -903,7 +903,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YSQVDmN.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/YSQVDmNb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -915,7 +915,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/KFyAbox.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/KFyAboxb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -934,12 +934,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/UaQzypH.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/UaQzypHb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/nCJvm1A.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/nCJvm1Ab.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -951,7 +951,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FwhwJXn.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/FwhwJXnb.png",
                 "description":"On the way to Victoria",
                 "favourite":"false"
             }
@@ -963,7 +963,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/A2r5Vxs.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/A2r5Vxsb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -975,7 +975,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/QMZDqzt.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/QMZDqztb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -987,7 +987,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PKJ62u2.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/PKJ62u2b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -997,7 +997,12 @@ window["formatPokemonJSON"]([
         "id":82,
         "name":"Magneton",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/eeErfdC.png",
+                "thumbnail":"http://i.imgur.com/eeErfdCb.png",
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -1013,7 +1018,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/4mb81Q4.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/4mb81Q4b.png",
                 "description":"",
                 "favourite":"false"
 
@@ -1033,7 +1038,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Z0juPBD.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Z0juPBDb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1045,7 +1050,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mle7WZh.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/mle7WZhb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1057,7 +1062,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/dCUqs64.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/dCUqs64b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1067,7 +1072,12 @@ window["formatPokemonJSON"]([
         "id":89,
         "name":"Muk",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/vZvETaP.png",
+                "thumbnail":"http://i.imgur.com/vZvETaPb.png",
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -1076,7 +1086,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/e1yxBrI.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/e1yxBrIb.png",
                 "description":"",
                 "favourite":"false"
         }
@@ -1088,7 +1098,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/cyS3O83.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/cyS3O83b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1100,7 +1110,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/EVeLNr9.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/EVeLNr9b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1112,7 +1122,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mYWXP2A.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/mYWXP2Ab.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1124,7 +1134,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/9gT8uyn.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/9gT8uynb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1136,7 +1146,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/pS97MTU.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/pS97MTUb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1148,7 +1158,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oYSsVfz.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/oYSsVfzb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1160,7 +1170,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IprLu9e.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/IprLu9eb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1170,7 +1180,12 @@ window["formatPokemonJSON"]([
         "id":98,
         "name":"Krabby",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/WTPFxov.png",
+                "thumbnail":"http://i.imgur.com/WTPFxovb.png",
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },    
     {
@@ -1179,7 +1194,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/xm2n7vr.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/xm2n7vrb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1191,7 +1206,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/RaTmeOw.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/RaTmeOwb.png",
                 "description":"Please dont self-destruct",
                 "favourite":"false"
             }
@@ -1203,7 +1218,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/DQMozxo.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/DQMozxob.png",
                 "description":"Glad he didn't self-destruct",
                 "favourite":"false"
             }
@@ -1215,7 +1230,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/wYVAsyS.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/wYVAsySb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1234,7 +1249,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/ADhyNmu.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/ADhyNmub.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1246,7 +1261,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/HYp3wbo.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/HYp3wbob.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1258,7 +1273,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PzgojlF.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/PzgojlFb.png",
                 "description":"Ready to kick me",
                 "favourite":"false"
             }
@@ -1270,7 +1285,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/15Pp9T3.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/15Pp9T3b.png",
                 "description":"About to punch me",
                 "favourite":"false"
             }
@@ -1282,12 +1297,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/U8iQD4S.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/U8iQD4Sb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/d9hZCKq.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/d9hZCKqb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1299,12 +1314,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/h3orGwd.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/h3orGwdb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/l0XkR9S.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/l0XkR9Sb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1316,7 +1331,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Yp1iVyJ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Yp1iVyJb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1328,7 +1343,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/T8wV7V6.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/T8wV7V6b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1340,7 +1355,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
             "src":"http://i.imgur.com/KKbI0UJ.png",
-            "thumbnail":"",
+            "thumbnail":"http://i.imgur.com/KKbI0UJb.png",
             "description":"",
             "favourite":"false"
             }
@@ -1352,7 +1367,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jgDp5wv.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/jgDp5wvb.png",
                 "description":"Offering first aid in the streets",
                 "favourite":"true"
             }
@@ -1378,7 +1393,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/JHu69Ly.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/JHu69Lyb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1390,7 +1405,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Uz8Wfj1.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Uz8Wfj1b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1409,7 +1424,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/C1Ayl6c.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/C1Ayl6cb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1421,7 +1436,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/zm5RDG9.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/zm5RDG9b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1433,7 +1448,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/YOS60I9.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/YOS60I9b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1451,8 +1466,8 @@ window["formatPokemonJSON"]([
         "name":"Scyther",
         "date":"",
         "img":[{
-                "src":"http://i.imgur.com/mlVTTjV.jpg",
-                "thumbnail":"",
+                "src":"http://i.imgur.com/mlVTTjV.png",
+                "thumbnail":"http://i.imgur.com/mlVTTjVb.png",
                 "description":"Found this guy cutting up leaves",
                 "favourite":"false"
             }
@@ -1464,7 +1479,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/lW1TJd0.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/lW1TJd0b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1476,7 +1491,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/SFw1wx4.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/SFw1wx4b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1486,7 +1501,12 @@ window["formatPokemonJSON"]([
         "id":126,
         "name":"Magmar",
         "date":"",
-        "img":[
+        "img":[{
+                "src":"http://i.imgur.com/YrC7sLL.png",
+                "thumbnail":"http://i.imgur.com/YrC7sLLb.png",
+                "description":"",
+                "favourite":"false"
+            }
         ]
     },
     {
@@ -1495,7 +1515,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Bcgxwha.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Bcgxwhab.png",
                 "description":"Just being angry",
                 "favourite":"false"
             }
@@ -1507,12 +1527,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/0oudHad.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/0oudHadb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/VprBlS3.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/VprBlS3b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1531,7 +1551,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/qf0u1wI.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/qf0u1wIb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1543,12 +1563,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/43pZ8If.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/43pZ8Ifb.png",
                 "description":"Another beauty hanging by water fountain",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Jbr2HpT.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Jbr2HpTb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1567,7 +1587,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/Xk9DAax.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Xk9DAaxb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1579,7 +1599,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/oFJgHgc.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/oFJgHgcb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1591,7 +1611,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/jLkuetz.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/jLkuetzb.png",
                 "description":"He's about to tackle me",
                 "favourite":"false"
             }
@@ -1610,12 +1630,12 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/IMR5x3f.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/IMR5x3fb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/093j7cK.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/093j7cKb.png",
                 "description":"Burning in the heat",
                 "favourite":"false"
             }
@@ -1627,7 +1647,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/3h4e04V.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/3h4e04Vb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1646,7 +1666,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/AlEZP6a.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/AlEZP6ab.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1658,7 +1678,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/PFyZXOZ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/PFyZXOZb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1670,22 +1690,22 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/FAOMgat.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/FAOMgatb.png",
                 "description":"Chillin by Canada Place",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/EtKvl5C.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/EtKvl5Cb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/Io6f9pg.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/Io6f9pgb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/nGrxbTD.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/nGrxbTDb.png",
                 "description":"Chillin in the back alley by Granville and West Hasting",
                 "favourite":"false"
             }
@@ -1697,22 +1717,22 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/u8LsLan.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/u8LsLanb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/X44N5N8.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/X44N5N8b.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/kNDvu1B.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/kNDvu1Bb.png",
                 "description":"",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/l8v21XA.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/l8v21XAb.png",
                 "description":"Out enjoying some fresh air",
                 "favourite":"false"
             }
@@ -1745,7 +1765,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/L186e9M.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/L186e9Mb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1757,7 +1777,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/GIjAPr2.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/GIjAPr2b.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -1769,27 +1789,27 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/7kpDRT7.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/7kpDRT7b.png",
                 "description":"By Robson street",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/JdBg7mR.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/JdBg7mRb.png",
                 "description":"First Dragonite caught in the wild",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/C6Q4y29.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/C6Q4y29b.png",
                 "description":"In Pacific Center Mall",
                 "favourite":"false"
             },{
                 "src":"http://i.imgur.com/wJlaOYZ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/wJlaOYZb.png",
                 "description":"Highest caught CP at 2967 and at 89% IV",
                 "favourite":"true"
             },{
                "src":"http://i.imgur.com/nRYa0Un.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/nRYa0Unb.png",
                 "description":"Lowest caught CP at 46",
                 "favourite":"false" 
             }
@@ -1808,5 +1828,5 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[
         ]
-    }*/
+    }
 ]);
