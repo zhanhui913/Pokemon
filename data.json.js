@@ -5,7 +5,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/cWmVJDJ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/cWmVJDJb.png",
                 "description":"",
                 "favourite":"false"
             }
@@ -34,7 +34,7 @@ window["formatPokemonJSON"]([
         "date":"",
         "img":[{
                 "src":"http://i.imgur.com/mlAqXMZ.png",
-                "thumbnail":"",
+                "thumbnail":"http://i.imgur.com/mlAqXMZb.png",
                 "description":"",
                 "favourite":"false"
             }
