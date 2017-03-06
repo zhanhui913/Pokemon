@@ -46,16 +46,17 @@
 
                     var img = (el.img.length > 0) ? el.img[0].src : "images/placeholder2.png" ;
                     var thumbnail = (el.img.length > 0) ? el.img[0].thumbnail : "images/placeholder2.png" ;
+                    //var thumbnail =  "images/placeholder2.png" ;
 
                     var description = (el.img.length > 0) ? el.img[0].description : "NA";
                     var date = (el.date == null) ? "NA" : el.date;
 
                     //With name on hover
-                    var s = "<!--" + el.name + " -->\n<div class='col-xlg-1 col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + thumbnail + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
+                    //var s = "<!--" + el.name + " -->\n<div class='col-xlg-1 col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + thumbnail + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
                     
                     //Without
-                    //var s = "<!--" + el.name + " -->\n<div class='col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + thumbnail + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n</div>\n</a>\n</div>\n";
- 
+                    var s = "<!--" + el.name + " -->\n<div class='col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n</div>\n</div>\n</a>\n</div>\n";
+
                     $content.append(s);  
                 });
             },
