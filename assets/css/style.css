@@ -192,8 +192,8 @@ a,
 }
 
 .callout {
-	/*background: #F5F5F5;*/
-    background-image: url("../../images/sativa.png");
+	background: #F5F5F5;
+    /*background-image: url("../../images/sativa.png");*/
 }
 
 .headline {
@@ -345,20 +345,72 @@ h3 > .fa {
 /* ---------------------------------------------- /*
  * Portfolio
 /* ---------------------------------------------- */
-
+/*
 .pkmn-item {
 	overflow: hidden;
-	border-radius: 10%;
-}
+}*/
 
 .pkmn-item-preview {
- 	text-align: center;
+ /*	text-align: center;
   	position: relative;
   	overflow: hidden;
-  	background-color: #C9C9FF;
-  	border-radius: 10%;
+  	width: 100%;
+*/
+
+	position:  absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
 }
 
+.pkmn-item-preview img{
+	height:100%;
+}
+
+/*
+.pokemonItem {
+    display: block;
+    width:100%;
+
+}*/
+
+.pkmn-item{
+	position: relative;
+	width: 100%;		/* desired width */
+}
+
+.pkmn-item:before{
+		content: "";
+	display: block;
+	padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+
+.pokemonCount{
+	color:#222;
+}
+
+.generation{
+    text-align: left;
+}
+
+.pokemonContainer{
+    margin-bottom: 20px;
+}
+
+.pokemon-badge{
+	position:absolute;
+	right: 5px;
+	top:5px;
+	width : 40px;
+	height: 40px;
+}
+
+.pokemon-badge-column{
+	width : 40px;
+	height:auto;
+	background-color: #000;
+}
 
 /* ---------------------------------------------- /*
  * Contact
@@ -392,9 +444,5 @@ h3 > .fa {
 @media (max-width: 767px) {
 	.wrapper {
 		text-align: center;
-	}
-
-	#profile-contact .profile-item {
-		margin: 0 0 20px;
 	}
 }

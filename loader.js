@@ -11,51 +11,65 @@
             success: function(json) {
                 console.log("success");
 
-                var sighted = 0;
-                var total = 0;
+                var gen1Sighted = 0;
+                var gen1Total = 0;
+
+                var gen2Sighted = 0;
+                var gen2Total = 0;
 
                 var $fav = $("#owl-clients");
 
                 //find favourites first and add it onto the carousel
                 $.each(json, function(i, el) {
-                    total++;
-                    if(el.img.length > 0){
-                        sighted++;
-                        for(var i = 0; i < el.img.length; i++){
-                            if(el.img[i].favourite == "true"){
-                                var s = "<div class='owl-item'>\n<img src='" + el.img[i].src + "' alt=''>\n<h4>" + el.name + "</h4>\n<p>" + el.img[i].description + "</p>\n</div>";
-                                console.log(el.name+" -> "+el.img[i].description+" is true");    
+                    if(el.gen == 1){
+                        gen1Total++;
 
+                        if(el.src != ""){
+                            gen1Sighted++;
+
+                            console.log("saw "+el.name);
+                            if(el.favourite == "true"){
+                                var s = "<div class='owl-item'>\n<img src='" + el.src + "' alt=''>\n<h4>" + el.name + "</h4>\n</div>";
                                 $fav.data('owlCarousel').addItem(s);
                             }
                         }
                     }
+
+/*
+                    gen1Total++;
+                    if(el.img != ""){
+                        gen1Sighted++;
+                        if(el.favourite == "true"){
+                            var s = "<div class='owl-item'>\n<img src='" + el.src + "' alt=''>\n<h4>" + el.name + "</h4>\n<p>" + el.description + "</p>\n</div>";
+                            console.log(el.name+" -> "+el.img[i].description+" is true");    
+                            $fav.data('owlCarousel').addItem(s);
+                        }
+                    }*/
                 });
-                console.log("sighted "+sighted+" out of "+total);
+                console.log("gen1Sighted "+gen1Sighted+" out of "+gen1Total);
                 
-                //set total sighted
-                var $sighted = $("#pokemonCount");
-                $sighted.append(sighted+"/"+total);
+                //set total sighted for generation 1
+                var $gen1Sighted = $("#gen1Count");
+                $gen1Sighted.append(gen1Sighted+" / "+gen1Total);
 
                 var $content = $("#pokemonContent");
                 
                 //images
                 $.each(json, function(i, el) {
 
-                    console.log(el.name+" has "+el.img.length+" images");
+                    //console.log(el.name+" has "+el.img.length+" images");
 
-                    var img = (el.img.length > 0) ? el.img[0].src : "images/placeholder2.png" ;
-                    var thumbnail = (el.img.length > 0) ? el.img[0].thumbnail : "images/placeholder2.png" ;
+                    var img = (el.src != "") ? el.src : "images/placeholder2.png" ;
+                    var thumbnail = (el.thumbnail != "") ? el.thumbnail : "images/placeholder2.png" ;
                     //var thumbnail =  "images/placeholder2.png" ;
 
-                    var description = (el.img.length > 0) ? el.img[0].description : "NA";
-                    var date = (el.date == null) ? "NA" : el.date;
+                    var type = "images/type/z.png";
 
                     //With name on hover
                     //var s = "<!--" + el.name + " -->\n<div class='col-xlg-1 col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + thumbnail + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
                     
                     //Without
-                    var s = "<!--" + el.name + " -->\n<div class='col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n</div>\n</div>\n</a>\n</div>\n";
+                    var s = "<!--" + el.name + " -->\n<div class='pokemonContainer col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n<div class='pokemon-badge'>\n<img src='" + type + "' >\n</div>\n</div>\n</div>\n</a>\n</div>\n";
 
                     $content.append(s);  
                 });
