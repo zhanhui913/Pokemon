@@ -1444,9 +1444,12 @@ window["formatPokemonJSON"]([
         "id":132,
         "gen":1,
         "name":"Ditto",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"normal"
+        }],
+        "favourite":"false"
     },    
     {
         "id":133,
