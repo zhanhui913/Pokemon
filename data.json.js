@@ -1,1581 +1,1448 @@
 window["formatPokemonJSON"]([
     {
         "id":1,
+        "gen":1,
         "name":"Bulbasaur",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/cWmVJDJ.png",
-                "thumbnail":"http://i.imgur.com/cWmVJDJb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/gmQKM0t.png",
+        "thumbnail":"http://i.imgur.com/gmQKM0tb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":2,
+        "gen":1,
         "name":"Ivysaur",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/oWYVt0l.png",
-                "thumbnail":"http://i.imgur.com/oWYVt0lb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/Aj3MxNO.png",
-                "thumbnail":"http://i.imgur.com/Aj3MxNOb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/Vn6B4gE.png",
+        "thumbnail":"http://i.imgur.com/Vn6B4gEb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":3,
+        "gen":1,
         "name":"Venusaur",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/mlAqXMZ.png",
-                "thumbnail":"http://i.imgur.com/mlAqXMZb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/f5LFR6m.png",
+        "thumbnail":"http://i.imgur.com/f5LFR6mb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":4,
+        "gen":1,
         "name":"Charmander",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/IJ2v7hz.png",
-                "thumbnail":"http://i.imgur.com/IJ2v7hzb.png",
-                "description":"Found by Jericho Beach",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":5,
+        "gen":1,
         "name":"Charmeleon",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/4aBGH2a.png",
-                "thumbnail":"http://i.imgur.com/4aBGH2ab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/dWB2iS3.png",
+        "thumbnail":"http://i.imgur.com/dWB2iS3b.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":6,
+        "gen":1,
         "name":"Charizard",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/r1wi0MN.png",
-                "thumbnail":"http://i.imgur.com/r1wi0MNb.png",
-                "description":"Finally saw this guy",
-                "favourite":"true"
-            }
-        ]
+        "src":"http://i.imgur.com/OKXYsfy.png",
+        "thumbnail":"http://i.imgur.com/OKXYsfyb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":7,
+        "gen":1,
         "name":"Squirtle",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/la7YesJ.png",
-                "thumbnail":"http://i.imgur.com/la7YesJb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/6hc99aC.png",
+        "thumbnail":"http://i.imgur.com/6hc99aCb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":8,
+        "gen":1,
         "name":"Wartortle",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/snmqzf1.png",
-                "thumbnail":"http://i.imgur.com/snmqzf1b.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/ttPwaH0.png",
-                "thumbnail":"http://i.imgur.com/ttPwaH0b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":9,
+        "gen":1,
         "name":"Blastoise",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/PAKaS5P.png",
-                "thumbnail":"http://i.imgur.com/PAKaS5Pb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":10,
+        "gen":1,
         "name":"Caterpie",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/XGgCZTq.png",
-                "thumbnail":"http://i.imgur.com/XGgCZTqb.png",
-                "description":"Sitting outisde of Catfe",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/57g2DB6.png",
-                "thumbnail":"http://i.imgur.com/57g2DB6b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":11,
+        "gen":1,
         "name":"Metapod",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/g9Um1UU.png",
-                "thumbnail":"http://i.imgur.com/g9Um1UUb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":12,
+        "gen":1,
         "name":"Butterfree",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/fKr0ng9.png",
-                "thumbnail":"http://i.imgur.com/fKr0ng9b.png",
-                "description":"Sitting alone by the #7 Subway",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/u5pzd8t.png",
+        "thumbnail":"http://i.imgur.com/u5pzd8tb.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":13,
+        "gen":1,
         "name":"Weedle",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/xdhs7Kg.png",
-                "thumbnail":"http://i.imgur.com/xdhs7Kgb.png",
-                "description":"Hanging by the escalator",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":14,
+        "gen":1,
         "name":"Kakuna",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/5DxugKw.png",
-                "thumbnail":"http://i.imgur.com/5DxugKwb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":15,
+        "gen":1,
         "name":"Beedrill",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Y7b8V6Q.png",
-                "thumbnail":"http://i.imgur.com/Y7b8V6Qb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":16,
+        "gen":1,
         "name":"Pidgey",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/59keNyE.jpg",
-                "thumbnail":"http://i.imgur.com/59keNyEb.jpg",
-                "description":"Blocking my way home",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":17,
+        "gen":1,
         "name":"Pidgeotto",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/YdPlCKq.png",
-                "thumbnail":"http://i.imgur.com/YdPlCKqb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":18,
+        "gen":1,
         "name":"Pidgeot",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/56FDqsO.jpg",
-                "thumbnail":"http://i.imgur.com/56FDqsOb.jpg",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/jiNMH7S.png",
-                "thumbnail":"http://i.imgur.com/jiNMH7Sb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":19,
+        "gen":1,
         "name":"Rattata",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/ah0FwfR.png",
-                "thumbnail":"http://i.imgur.com/ah0FwfRb.png",
-                "description":"Protecting owner's house",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":20,
+        "gen":1,
         "name":"Raticate",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/6Wq3ziu.png",
-                "thumbnail":"http://i.imgur.com/6Wq3ziub.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":21,
+        "gen":1,
         "name":"Spearow",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/WztfGhC.png",
-                "thumbnail":"http://i.imgur.com/WztfGhCb.png",
-                "description":"",
-                "favourite":"false"
-        }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":22,
+        "gen":1,
         "name":"Fearow",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/CDIQY7z.png",
-                "thumbnail":"http://i.imgur.com/CDIQY7zb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":23,
+        "gen":1,
         "name":"Ekans",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/9Mk4lPl.png",
-                "thumbnail":"http://i.imgur.com/9Mk4lPlb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":24,
+        "gen":1,
         "name":"Arbok",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":25,
+        "gen":1,
         "name":"Pikachu",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/hcrtfSh.png",
-                "thumbnail":"http://i.imgur.com/hcrtfShb.png",
-                "description":"Trying to photobomb",
-                "favourite":"true"
-            },{
-                "src":"http://i.imgur.com/VPISPmd.png",
-                "thumbnail":"http://i.imgur.com/VPISPmdb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":26,
+        "gen":1,
         "name":"Raichu",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/6wYWjz7.png",
-                "thumbnail":"http://i.imgur.com/6wYWjz7b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":27,
+        "gen":1,
         "name":"Sandshrew",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/jAIzjCy.png",
-                "thumbnail":"http://i.imgur.com/jAIzjCyb.png",
-                "description":"Nothing special here",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":28,
+        "gen":1,
         "name":"Sandslash",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/IjtrYPq.png",
-                "thumbnail":"http://i.imgur.com/IjtrYPqb.png",
-                "description":"Trying to poke me",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":29,
+        "gen":1,
         "name":"Nidoran♀",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/4FWXYiw.png",
-                "thumbnail":"http://i.imgur.com/4FWXYiwb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":30,
+        "gen":1,
         "name":"Nidorina",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/OFkf1Bc.png",
-                "thumbnail":"http://i.imgur.com/OFkf1Bcb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":31,
+        "gen":1,
         "name":"Nidoqueen",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Be1UdUV.png",
-                "thumbnail":"http://i.imgur.com/Be1UdUVb.png",
-                "description":"Found this queen in my office intruding",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":32,
+        "gen":1,
         "name":"Nidoran♂",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/IQVCesg.png",
-                "thumbnail":"http://i.imgur.com/IQVCesgb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":33,
+        "gen":1,
         "name":"Nidorino",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/rnfrWcf.png",
-                "thumbnail":"http://i.imgur.com/rnfrWcfb.png",
-                "description":"Big guy by the hallway",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":34,
+        "gen":1,
         "name":"Nidoking",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/M83dg9X.png",
-                "thumbnail":"http://i.imgur.com/M83dg9Xb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/4BVhKGE.png",
-                "thumbnail":"http://i.imgur.com/4BVhKGEb.png",
-                "description":"Caught on my leg",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":35,
+        "gen":1,
         "name":"Clefairy",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/HpTu2XR.png",
-                "thumbnail":"http://i.imgur.com/HpTu2XRb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":36,
+        "gen":1,
         "name":"Clefable",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/oTbI58A.png",
-                "thumbnail":"http://i.imgur.com/oTbI58Ab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":37,
+        "gen":1,
         "name":"Vulpix",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/CgnN9yf.png",
-                "thumbnail":"http://i.imgur.com/CgnN9yfb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":38,
+        "gen":1,
         "name":"Ninetales",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/b1BWbq1.png",
-                "thumbnail":"http://i.imgur.com/b1BWbq1b.png",
-                "description":"Looking fabulous as usual",
-                "favourite":"true"
-            }   
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":39,
+        "gen":1,
         "name":"Jigglypuff",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/6YzAnc5.png",
-                "thumbnail":"http://i.imgur.com/6YzAnc5b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":40,
+        "gen":1,
         "name":"Wigglytuff",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/d5o4gkn.png",
-                "thumbnail":"http://i.imgur.com/d5o4gknb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":41,
+        "gen":1,
         "name":"Zubat",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/DfjVqlq.jpg",
-                "thumbnail":"http://i.imgur.com/DfjVqlqb.jpg",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/Ja0xSaF.png",
-                "thumbnail":"http://i.imgur.com/Ja0xSaFb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":42,
+        "gen":1,
         "name":"Golbat",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/W4jC2bY.png",
-                "thumbnail":"http://i.imgur.com/W4jC2bYb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/ELja1Pa.png",
+        "thumbnail":"http://i.imgur.com/ELja1Pab.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":43,
+        "gen":1,
         "name":"Oddish",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/FvXGhPH.png",
-                "thumbnail":"http://i.imgur.com/FvXGhPHb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":44,
+        "gen":1,
         "name":"Gloom",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/FMZRs9h.png",
-                "thumbnail":"http://i.imgur.com/FMZRs9hb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":45,
+        "gen":1,
         "name":"Vileplume",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/BmgsfSF.png",
-                "thumbnail":"http://i.imgur.com/BmgsfSFb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":46,
+        "gen":1,
         "name":"Paras",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/CbFD2Sd.png",
-                "thumbnail":"http://i.imgur.com/CbFD2Sdb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":47,
+        "gen":1,
         "name":"Parasect",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/fPOkhGi.png",
-                "thumbnail":"http://i.imgur.com/fPOkhGib.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":48,
+        "gen":1,
         "name":"Venonat",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/C6QM6bi.png",
-                "thumbnail":"http://i.imgur.com/C6QM6bib.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":49,
+        "gen":1,
         "name":"Venomoth",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/lAtjBX7.png",
-                "thumbnail":"http://i.imgur.com/lAtjBX7b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":50,
+        "gen":1,
         "name":"Diglett",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/ST8BXA3.png",
-                "thumbnail":"http://i.imgur.com/ST8BXA3b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":51,
+        "gen":1,
         "name":"Dugtrio",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/RvuK92T.jpg",
-                "thumbnail":"http://i.imgur.com/RvuK92Tb.jpg",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":52,
+        "gen":1,
         "name":"Meowth",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/qkKvFjz.png",
-                "thumbnail":"http://i.imgur.com/qkKvFjzb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":53,
+        "gen":1,
         "name":"Persian",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":54,
+        "gen":1,
         "name":"Psyduck",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":55,
+        "gen":1,
         "name":"Golduck",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/BrkPaCU.png",
-                "thumbnail":"http://i.imgur.com/BrkPaCUb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":56,
+        "gen":1,
         "name":"Mankey",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/UBrqxDI.png",
-                "thumbnail":"http://i.imgur.com/UBrqxDIb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":57,
+        "gen":1,
         "name":"Primeape",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Nq7ZSza.png",
-                "thumbnail":"http://i.imgur.com/Nq7ZSzab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":58,
+        "gen":1,
         "name":"Growlithe",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/GXfBpR2.png",
-                "thumbnail":"http://i.imgur.com/GXfBpR2b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":59,
+        "gen":1,
         "name":"Arcanine",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":60,
+        "gen":1,
         "name":"Poliwag",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":61,
+        "gen":1,
         "name":"Poliwhirl",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/UhDOZdN.png",
-                "thumbnail":"http://i.imgur.com/UhDOZdNb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":62,
+        "gen":1,
         "name":"Poliwrath",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/LKU60nL.png",
-                "thumbnail":"http://i.imgur.com/LKU60nLb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":63,
+        "gen":1,
         "name":"Abra",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/ZikFUrE.png",
-                "thumbnail":"http://i.imgur.com/ZikFUrEb.png",
-                "description":"Just chillin",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":64,
+        "gen":1,
         "name":"Kadabra",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/K2AKRa2.png",
-                "thumbnail":"http://i.imgur.com/K2AKRa2b.png",
-                "description":"Trying to cast a spell on me",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/a8xcWWw.png",
-                "thumbnail":"http://i.imgur.com/a8xcWWwb.png",
-                "description":"Enjoying some flowers",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":65,
+        "gen":1,
         "name":"Alakazam",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/hFhtvNK.png",
-                "thumbnail":"http://i.imgur.com/hFhtvNKb.png",
-                "description":"Playing with some magic",
-                "favourite":"true"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":66,
+        "gen":1,
         "name":"Machop",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/vfTa94g.png",
-                "thumbnail":"http://i.imgur.com/vfTa94gb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":67,
+        "gen":1,
         "name":"Machoke",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/klB7ewW.png",
-                "thumbnail":"http://i.imgur.com/klB7ewWb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":68,
+        "gen":1,
         "name":"Machamp",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/GDiJqft.png",
-                "thumbnail":"http://i.imgur.com/GDiJqftb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":69,
+        "gen":1,
         "name":"Bellsprout",
-        "date":"",
-        "img":[
-            {
-                "src":"http://i.imgur.com/byibPvU.png",
-                "thumbnail":"http://i.imgur.com/byibPvUb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/HAD4yNx.png",
-                "thumbnail":"http://i.imgur.com/HAD4yNxb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":70,
+        "gen":1,
         "name":"Weepinbell",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/ymSWhyr.png",
-                "thumbnail":"http://i.imgur.com/ymSWhyrb.png",
-                "description":"",
-                "favourite":"false"
-            },
-            {
-                "src":"http://i.imgur.com/uAPqPkM.png",
-                "thumbnail":"http://i.imgur.com/uAPqPkMb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":71,
+        "gen":1,
         "name":"Victreebel",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":72,
+        "gen":1,
         "name":"Tentacool",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":73,
+        "gen":1,
         "name":"Tentacruel",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/uEP94n4.png",
-                "thumbnail":"http://i.imgur.com/uEP94n4b.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/wwtvAkF.png",
-                "thumbnail":"http://i.imgur.com/wwtvAkFb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":74,
+        "gen":1,
         "name":"Geodude",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/YSQVDmN.png",
-                "thumbnail":"http://i.imgur.com/YSQVDmNb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":75,
+        "gen":1,
         "name":"Graveler",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/KFyAbox.png",
-                "thumbnail":"http://i.imgur.com/KFyAboxb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":76,
+        "gen":1,
         "name":"Golem",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":77,
+        "gen":1,
         "name":"Ponyta",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/UaQzypH.png",
-                "thumbnail":"http://i.imgur.com/UaQzypHb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/nCJvm1A.png",
-                "thumbnail":"http://i.imgur.com/nCJvm1Ab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":78,
+        "gen":1,
         "name":"Rapidash",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/FwhwJXn.png",
-                "thumbnail":"http://i.imgur.com/FwhwJXnb.png",
-                "description":"On the way to Victoria",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":79,
+        "gen":1,
         "name":"Slowpoke",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/A2r5Vxs.png",
-                "thumbnail":"http://i.imgur.com/A2r5Vxsb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":80,
+        "gen":1,
         "name":"Slowbro",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/QMZDqzt.png",
-                "thumbnail":"http://i.imgur.com/QMZDqztb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":81,
+        "gen":1,
         "name":"Magnemite",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/PKJ62u2.png",
-                "thumbnail":"http://i.imgur.com/PKJ62u2b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":82,
+        "gen":1,
         "name":"Magneton",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/eeErfdC.png",
-                "thumbnail":"http://i.imgur.com/eeErfdCb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":83,
+        "gen":1,
         "name":"Farfetch d",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":84,
+        "gen":1,
         "name":"Doduo",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/4mb81Q4.png",
-                "thumbnail":"http://i.imgur.com/4mb81Q4b.png",
-                "description":"",
-                "favourite":"false"
-
-        }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":85,
+        "gen":1,
         "name":"Dodrio",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":86,
+        "gen":1,
         "name":"Seel",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Z0juPBD.png",
-                "thumbnail":"http://i.imgur.com/Z0juPBDb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":87,
+        "gen":1,
         "name":"Dewgong",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/mle7WZh.png",
-                "thumbnail":"http://i.imgur.com/mle7WZhb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":88,
+        "gen":1,
         "name":"Grimer",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/dCUqs64.png",
-                "thumbnail":"http://i.imgur.com/dCUqs64b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":89,
+        "gen":1,
         "name":"Muk",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/vZvETaP.png",
-                "thumbnail":"http://i.imgur.com/vZvETaPb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":90,
+        "gen":1,
         "name":"Shellder",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/e1yxBrI.png",
-                "thumbnail":"http://i.imgur.com/e1yxBrIb.png",
-                "description":"",
-                "favourite":"false"
-        }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":91,
+        "gen":1,
         "name":"Cloyster",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/cyS3O83.png",
-                "thumbnail":"http://i.imgur.com/cyS3O83b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":92,
+        "gen":1,
         "name":"Gastly",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/EVeLNr9.png",
-                "thumbnail":"http://i.imgur.com/EVeLNr9b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"http://i.imgur.com/GAkvjru.png",
+        "thumbnail":"http://i.imgur.com/GAkvjrub.png",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":93,
+        "gen":1,
         "name":"Haunter",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/mYWXP2A.png",
-                "thumbnail":"http://i.imgur.com/mYWXP2Ab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":94,
+        "gen":1,
         "name":"Gengar",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/9gT8uyn.png",
-                "thumbnail":"http://i.imgur.com/9gT8uynb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":95,
+        "gen":1,
         "name":"Onix",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/pS97MTU.png",
-                "thumbnail":"http://i.imgur.com/pS97MTUb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":96,
+        "gen":1,
         "name":"Drowzee",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/oYSsVfz.png",
-                "thumbnail":"http://i.imgur.com/oYSsVfzb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":97,
+        "gen":1,
         "name":"Hypno",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/IprLu9e.png",
-                "thumbnail":"http://i.imgur.com/IprLu9eb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":98,
+        "gen":1,
         "name":"Krabby",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/WTPFxov.png",
-                "thumbnail":"http://i.imgur.com/WTPFxovb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":99,
+        "gen":1,
         "name":"Kingler",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/xm2n7vr.png",
-                "thumbnail":"http://i.imgur.com/xm2n7vrb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":100,
+        "gen":1,
         "name":"Voltorb",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/RaTmeOw.png",
-                "thumbnail":"http://i.imgur.com/RaTmeOwb.png",
-                "description":"Please dont self-destruct",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":101,
+        "gen":1,
         "name":"Electrode",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/DQMozxo.png",
-                "thumbnail":"http://i.imgur.com/DQMozxob.png",
-                "description":"Glad he didn't self-destruct",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":102,
+        "gen":1,
         "name":"Exeggcute",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/wYVAsyS.png",
-                "thumbnail":"http://i.imgur.com/wYVAsySb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":103,
+        "gen":1,
         "name":"Exeggutor",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":104,
+        "gen":1,
         "name":"Cubone",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/ADhyNmu.png",
-                "thumbnail":"http://i.imgur.com/ADhyNmub.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":105,
+        "gen":1,
         "name":"Marowak",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/HYp3wbo.png",
-                "thumbnail":"http://i.imgur.com/HYp3wbob.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":106,
+        "gen":1,
         "name":"Hitmonlee",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/PzgojlF.png",
-                "thumbnail":"http://i.imgur.com/PzgojlFb.png",
-                "description":"Ready to kick me",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":107,
+        "gen":1,
         "name":"Hitmonchan",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/15Pp9T3.png",
-                "thumbnail":"http://i.imgur.com/15Pp9T3b.png",
-                "description":"About to punch me",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":108,
+        "gen":1,
         "name":"Lickitung",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/U8iQD4S.png",
-                "thumbnail":"http://i.imgur.com/U8iQD4Sb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/d9hZCKq.png",
-                "thumbnail":"http://i.imgur.com/d9hZCKqb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":109,
+        "gen":1,
         "name":"Koffing",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/h3orGwd.png",
-                "thumbnail":"http://i.imgur.com/h3orGwdb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/l0XkR9S.png",
-                "thumbnail":"http://i.imgur.com/l0XkR9Sb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":110,
+        "gen":1,
         "name":"Weezing",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Yp1iVyJ.png",
-                "thumbnail":"http://i.imgur.com/Yp1iVyJb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":111,
+        "gen":1,
         "name":"Rhyhorn",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/T8wV7V6.png",
-                "thumbnail":"http://i.imgur.com/T8wV7V6b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":112,
+        "gen":1,
         "name":"Rhydon",
-        "date":"",
-        "img":[{
-            "src":"http://i.imgur.com/KKbI0UJ.png",
-            "thumbnail":"http://i.imgur.com/KKbI0UJb.png",
-            "description":"",
-            "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":113,
+        "gen":1,
         "name":"Chansey",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/jgDp5wv.png",
-                "thumbnail":"http://i.imgur.com/jgDp5wvb.png",
-                "description":"Offering first aid in the streets",
-                "favourite":"true"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":114,
+        "gen":1,
         "name":"Tangela",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":115,
+        "gen":1,
         "name":"Kangaskhan",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":116,
+        "gen":1,
         "name":"Horsea",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/JHu69Ly.png",
-                "thumbnail":"http://i.imgur.com/JHu69Lyb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":117,
+        "gen":1,
         "name":"Seadra",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Uz8Wfj1.png",
-                "thumbnail":"http://i.imgur.com/Uz8Wfj1b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":118,
+        "gen":1,
         "name":"Goldeen",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":119,
+        "gen":1,
         "name":"Seaking",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/C1Ayl6c.png",
-                "thumbnail":"http://i.imgur.com/C1Ayl6cb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":120,
+        "gen":1,
         "name":"Staryu",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/zm5RDG9.png",
-                "thumbnail":"http://i.imgur.com/zm5RDG9b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":121,
+        "gen":1,
         "name":"Starmie",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/YOS60I9.png",
-                "thumbnail":"http://i.imgur.com/YOS60I9b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":122,
+        "gen":1,
         "name":"Mr Mime",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":123,
+        "gen":1,
         "name":"Scyther",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/mlVTTjV.png",
-                "thumbnail":"http://i.imgur.com/mlVTTjVb.png",
-                "description":"Found this guy cutting up leaves",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":124,
+        "gen":1,
         "name":"Jynx",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/lW1TJd0.png",
-                "thumbnail":"http://i.imgur.com/lW1TJd0b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":125,
+        "gen":1,
         "name":"Electabuzz",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/SFw1wx4.png",
-                "thumbnail":"http://i.imgur.com/SFw1wx4b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":126,
+        "gen":1,
         "name":"Magmar",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/YrC7sLL.png",
-                "thumbnail":"http://i.imgur.com/YrC7sLLb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":127,
+        "gen":1,
         "name":"Pinsir",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Bcgxwha.png",
-                "thumbnail":"http://i.imgur.com/Bcgxwhab.png",
-                "description":"Just being angry",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":128,
+        "gen":1,
         "name":"Tauros",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/0oudHad.png",
-                "thumbnail":"http://i.imgur.com/0oudHadb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/VprBlS3.png",
-                "thumbnail":"http://i.imgur.com/VprBlS3b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":129,
+        "gen":1,
         "name":"Magikarp",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":130,
+        "gen":1,
         "name":"Gyarados",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/qf0u1wI.png",
-                "thumbnail":"http://i.imgur.com/qf0u1wIb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":131,
+        "gen":1,
         "name":"Lapras",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/43pZ8If.png",
-                "thumbnail":"http://i.imgur.com/43pZ8Ifb.png",
-                "description":"Another beauty hanging by water fountain",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/Jbr2HpT.png",
-                "thumbnail":"http://i.imgur.com/Jbr2HpTb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":132,
+        "gen":1,
         "name":"Ditto",
         "date":"",
         "img":[
@@ -1583,250 +1450,211 @@ window["formatPokemonJSON"]([
     },    
     {
         "id":133,
+        "gen":1,
         "name":"Eevee",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/Xk9DAax.png",
-                "thumbnail":"http://i.imgur.com/Xk9DAaxb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":134,
+        "gen":1,
         "name":"Vaporeon",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/oFJgHgc.png",
-                "thumbnail":"http://i.imgur.com/oFJgHgcb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":135,
+        "gen":1,
         "name":"Jolteon",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/jLkuetz.png",
-                "thumbnail":"http://i.imgur.com/jLkuetzb.png",
-                "description":"He's about to tackle me",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":136,
+        "gen":1,
         "name":"Flareon",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":137,
+        "gen":1,
         "name":"Porygon",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/IMR5x3f.png",
-                "thumbnail":"http://i.imgur.com/IMR5x3fb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/093j7cK.png",
-                "thumbnail":"http://i.imgur.com/093j7cKb.png",
-                "description":"Burning in the heat",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":138,
+        "gen":1,
         "name":"Omanyte",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/3h4e04V.png",
-                "thumbnail":"http://i.imgur.com/3h4e04Vb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":139,
+        "gen":1,
         "name":"Omaster",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":140,
+        "gen":1,
         "name":"Kabuto",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/AlEZP6a.png",
-                "thumbnail":"http://i.imgur.com/AlEZP6ab.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":141,
+        "gen":1,
         "name":"Kabutops",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/PFyZXOZ.png",
-                "thumbnail":"http://i.imgur.com/PFyZXOZb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":142,
+        "gen":1,
         "name":"Aerodactyl",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/FAOMgat.png",
-                "thumbnail":"http://i.imgur.com/FAOMgatb.png",
-                "description":"Chillin by Canada Place",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/EtKvl5C.png",
-                "thumbnail":"http://i.imgur.com/EtKvl5Cb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/Io6f9pg.png",
-                "thumbnail":"http://i.imgur.com/Io6f9pgb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/nGrxbTD.png",
-                "thumbnail":"http://i.imgur.com/nGrxbTDb.png",
-                "description":"Chillin in the back alley by Granville and West Hasting",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":143,
+        "gen":1,
         "name":"Snorlax",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/u8LsLan.png",
-                "thumbnail":"http://i.imgur.com/u8LsLanb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/X44N5N8.png",
-                "thumbnail":"http://i.imgur.com/X44N5N8b.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/kNDvu1B.png",
-                "thumbnail":"http://i.imgur.com/kNDvu1Bb.png",
-                "description":"",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/l8v21XA.png",
-                "thumbnail":"http://i.imgur.com/l8v21XAb.png",
-                "description":"Out enjoying some fresh air",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":144,
+        "gen":1,
         "name":"Articuno",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":145,
+        "gen":1,
         "name":"Zapdos",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":146,
+        "gen":1,
         "name":"Moltres",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":147,
+        "gen":1,
         "name":"Dratini",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/L186e9M.png",
-                "thumbnail":"http://i.imgur.com/L186e9Mb.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":148,
+        "gen":1,
         "name":"Dragonair",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/GIjAPr2.png",
-                "thumbnail":"http://i.imgur.com/GIjAPr2b.png",
-                "description":"",
-                "favourite":"false"
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },    
     {
         "id":149,
+        "gen":1,
         "name":"Dragonite",
-        "date":"",
-        "img":[{
-                "src":"http://i.imgur.com/7kpDRT7.png",
-                "thumbnail":"http://i.imgur.com/7kpDRT7b.png",
-                "description":"By Robson street",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/JdBg7mR.png",
-                "thumbnail":"http://i.imgur.com/JdBg7mRb.png",
-                "description":"First Dragonite caught in the wild",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/C6Q4y29.png",
-                "thumbnail":"http://i.imgur.com/C6Q4y29b.png",
-                "description":"In Pacific Center Mall",
-                "favourite":"false"
-            },{
-                "src":"http://i.imgur.com/wJlaOYZ.png",
-                "thumbnail":"http://i.imgur.com/wJlaOYZb.png",
-                "description":"Highest caught CP at 2967 and at 89% IV",
-                "favourite":"true"
-            },{
-               "src":"http://i.imgur.com/nRYa0Un.png",
-                "thumbnail":"http://i.imgur.com/nRYa0Unb.png",
-                "description":"Lowest caught CP at 46",
-                "favourite":"false" 
-            }
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":150,
+        "gen":1,
         "name":"Mewtwo",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     },
     {
         "id":151,
+        "gen":1,
         "name":"Mew",
-        "date":"",
-        "img":[
-        ]
+        "src":"",
+        "thumbnail":"",
+        "type":[{
+            "type":"grass"
+        }],
+        "favourite":"false"
     }
 ]);
