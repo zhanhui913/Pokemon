@@ -27,7 +27,7 @@
                         if(el.src != ""){
                             gen1Sighted++;
 
-                            console.log("saw "+el.name);
+                            //console.log("saw "+el.name);
                             if(el.favourite == "true"){
                                 var s = "<div class='owl-item'>\n<img src='" + el.src + "' alt=''>\n<h4>" + el.name + "</h4>\n</div>";
                                 $fav.data('owlCarousel').addItem(s);
@@ -61,15 +61,21 @@
 
                     var img = (el.src != "") ? el.src : "images/placeholder2.png" ;
                     var thumbnail = (el.thumbnail != "") ? el.thumbnail : "images/placeholder2.png" ;
-                    //var thumbnail =  "images/placeholder2.png" ;
-
-                    var type = "images/type/z.png";
 
                     //With name on hover
                     //var s = "<!--" + el.name + " -->\n<div class='col-xlg-1 col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='portfolio-item'>\n<div class='portfolio-item-preview'>\n<img src=" + thumbnail + " >\n<div class='hidden ptitle'>\n" + description + "\n</div>\n</div>\n<div class='portfolio-item-description'>\n<h3>" + el.name + "</h3>\n<p>" + date + "</p>\n</div>\n</div>\n</a>\n</div>\n";
                     
+                    var types = "";
+
+                    //Add types to the badge column located in the right of the image
+                    for(var i = 0; i < el.type.length; i++){
+                        var tt = "images/type/" + el.type[i].type + ".png";
+                        console.log(el.name+" has "+tt);
+                        types += "<div class='pokemon-badge'>\n<img src='" + tt + "' >\n</div>";
+                    }
+
                     //Without
-                    var s = "<!--" + el.name + " -->\n<div class='pokemonContainer col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n<div class='pokemon-badge'>\n<img src='" + type + "' >\n</div>\n</div>\n</div>\n</a>\n</div>\n";
+                    var s = "<!--" + el.name + " -->\n<div class='pokemonContainer col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n<div class='pokemon-badge-column'>" + types + "\n</div>\n</div>\n</div>\n</a>\n</div>\n";
 
                     $content.append(s);  
                 });

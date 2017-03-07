@@ -398,6 +398,18 @@ h3 > .fa {
     margin-bottom: 20px;
 }
 
+/* ---------------------------------------------- /*
+ * Type
+/* ---------------------------------------------- */
+
+.pokemon-badge-column{
+	position:absolute;
+	top:0px;
+	right: 0px;
+	width : 50px;
+	height:100%;
+}
+
 .pokemon-badge{
 	position:absolute;
 	right: 5px;
@@ -406,10 +418,8 @@ h3 > .fa {
 	height: 40px;
 }
 
-.pokemon-badge-column{
-	width : 40px;
-	height:auto;
-	background-color: #000;
+.pokemon-badge:nth-of-type(2n){
+	top:45px;
 }
 
 /* ---------------------------------------------- /*
