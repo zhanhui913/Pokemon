@@ -6,7 +6,8 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/gmQKM0t.png",
         "thumbnail":"http://i.imgur.com/gmQKM0tb.png",
         "type":[{
-            "type":"grass"
+            "type":"grass",
+            "type":"poison"
         }],
         "favourite":"false"
     },
@@ -17,7 +18,8 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/Vn6B4gE.png",
         "thumbnail":"http://i.imgur.com/Vn6B4gEb.png",
         "type":[{
-            "type":"grass"
+            "type":"grass",
+            "type":"poison"
         }],
         "favourite":"false"
     },    
@@ -28,7 +30,8 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/f5LFR6m.png",
         "thumbnail":"http://i.imgur.com/f5LFR6mb.png",
         "type":[{
-            "type":"grass"
+            "type":"grass",
+            "type":"poison"
         }],
         "favourite":"false"
     },
@@ -39,7 +42,7 @@ window["formatPokemonJSON"]([
         "src":"",
         "thumbnail":"",
         "type":[{
-            "type":"grass"
+            "type":"fire"
         }],
         "favourite":"false"
     },
@@ -50,7 +53,7 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/dWB2iS3.png",
         "thumbnail":"http://i.imgur.com/dWB2iS3b.png",
         "type":[{
-            "type":"grass"
+            "type":"fire"
         }],
         "favourite":"false"
     },    
@@ -61,7 +64,7 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/OKXYsfy.png",
         "thumbnail":"http://i.imgur.com/OKXYsfyb.png",
         "type":[{
-            "type":"grass"
+            "type":"fire"
         }],
         "favourite":"false"
     },
@@ -72,7 +75,7 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/6hc99aC.png",
         "thumbnail":"http://i.imgur.com/6hc99aCb.png",
         "type":[{
-            "type":"grass"
+            "type":"water"
         }],
         "favourite":"false"
     },
@@ -83,7 +86,7 @@ window["formatPokemonJSON"]([
         "src":"",
         "thumbnail":"",
         "type":[{
-            "type":"grass"
+            "type":"water"
         }],
         "favourite":"false"
     },    
@@ -94,7 +97,7 @@ window["formatPokemonJSON"]([
         "src":"",
         "thumbnail":"",
         "type":[{
-            "type":"grass"
+            "type":"water"
         }],
         "favourite":"false"
     },
@@ -105,7 +108,7 @@ window["formatPokemonJSON"]([
         "src":"",
         "thumbnail":"",
         "type":[{
-            "type":"grass"
+            "type":"bug"
         }],
         "favourite":"false"
     },
@@ -116,7 +119,7 @@ window["formatPokemonJSON"]([
         "src":"",
         "thumbnail":"",
         "type":[{
-            "type":"grass"
+            "type":"bug"
         }],
         "favourite":"false"
     },
@@ -127,7 +130,8 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/u5pzd8t.png",
         "thumbnail":"http://i.imgur.com/u5pzd8tb.png",
         "type":[{
-            "type":"grass"
+            "type":"bug",
+            "type":"flying"
         }],
         "favourite":"false"
     },    
