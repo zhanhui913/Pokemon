@@ -6,8 +6,9 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/gmQKM0t.png",
         "thumbnail":"http://i.imgur.com/gmQKM0tb.png",
         "type":[{
-            "type":"grass",
-            "type":"poison"
+                "type":"grass"
+            },{
+                "type":"poison"
         }],
         "favourite":"false"
     },
@@ -18,8 +19,9 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/Vn6B4gE.png",
         "thumbnail":"http://i.imgur.com/Vn6B4gEb.png",
         "type":[{
-            "type":"grass",
-            "type":"poison"
+                "type":"grass"
+            },{
+                "type":"poison"
         }],
         "favourite":"false"
     },    
@@ -30,8 +32,9 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/f5LFR6m.png",
         "thumbnail":"http://i.imgur.com/f5LFR6mb.png",
         "type":[{
-            "type":"grass",
-            "type":"poison"
+                "type":"grass"
+            },{
+                "type":"poison"
         }],
         "favourite":"false"
     },
@@ -130,8 +133,9 @@ window["formatPokemonJSON"]([
         "src":"http://i.imgur.com/u5pzd8t.png",
         "thumbnail":"http://i.imgur.com/u5pzd8tb.png",
         "type":[{
-            "type":"bug",
-            "type":"flying"
+                "type":"bug"
+            },{
+                "type":"flying"
         }],
         "favourite":"false"
     },    
