@@ -34,17 +34,6 @@
                             }
                         }
                     }
-
-/*
-                    gen1Total++;
-                    if(el.img != ""){
-                        gen1Sighted++;
-                        if(el.favourite == "true"){
-                            var s = "<div class='owl-item'>\n<img src='" + el.src + "' alt=''>\n<h4>" + el.name + "</h4>\n<p>" + el.description + "</p>\n</div>";
-                            console.log(el.name+" -> "+el.img[i].description+" is true");    
-                            $fav.data('owlCarousel').addItem(s);
-                        }
-                    }*/
                 });
                 console.log("gen1Sighted "+gen1Sighted+" out of "+gen1Total);
                 
@@ -74,8 +63,16 @@
                         types += "<div class='pokemon-badge'>\n<img src='" + tt + "' >\n</div>";
                     }
 
+
+                    var idContainer = "";
+
+                    //If un-seen, include number
+                    if(el.src == ""){
+                        idContainer = "<div class='pkmn-id'>" + el.id + "</div>";
+                    }
+
                     //Without
-                    var s = "<!--" + el.name + " -->\n<div class='pokemonContainer col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n<div class='pokemon-badge-column'>" + types + "\n</div>\n</div>\n</div>\n</a>\n</div>\n";
+                    var s = "<!--" + el.name + " -->\n<div class='pokemonContainer col-lg-2 col-md-3 col-sm-4 col-xs-6'>\n<a href=" + img + " class='pop-up' id='" + el.name + "'>\n<div class='pkmn-item'>\n<div class='pkmn-item-preview'>\n<img src=" + thumbnail + " >\n<div class='pokemon-badge-column'>" + types + "\n</div>" + idContainer + "\n</div>\n</div>\n</a>\n</div>\n";
 
                     $content.append(s);  
                 });

@@ -23,11 +23,11 @@ img {
 a {
 	color: #159957;
 }
-
+/*
 a:hover {
 	color: #C4C4C4;
 }
-
+*/
 /* ---------------------------------------------- /*
  * Typography
 /* ---------------------------------------------- */
@@ -345,18 +345,23 @@ h3 > .fa {
 /* ---------------------------------------------- /*
  * Portfolio
 /* ---------------------------------------------- */
-/*
-.pkmn-item {
-	overflow: hidden;
-}*/
+
+.pokemonContainer{
+    margin-bottom: 20px;
+}
+
+.pkmn-item{
+	position: relative;
+	width: 100%;		/* desired width */
+}
+
+.pkmn-item:before{
+	content: "";
+	display: block;
+	padding-top: 100%; 	/* initial ratio of 1:1*/
+}
 
 .pkmn-item-preview {
- /*	text-align: center;
-  	position: relative;
-  	overflow: hidden;
-  	width: 100%;
-*/
-
 	position:  absolute;
 	top: 0;
 	left: 0;
@@ -368,24 +373,6 @@ h3 > .fa {
 	height:100%;
 }
 
-/*
-.pokemonItem {
-    display: block;
-    width:100%;
-
-}*/
-
-.pkmn-item{
-	position: relative;
-	width: 100%;		/* desired width */
-}
-
-.pkmn-item:before{
-		content: "";
-	display: block;
-	padding-top: 100%; 	/* initial ratio of 1:1*/
-}
-
 .pokemonCount{
 	color:#222;
 }
@@ -394,8 +381,12 @@ h3 > .fa {
     text-align: left;
 }
 
-.pokemonContainer{
-    margin-bottom: 20px;
+.pkmn-id{
+	position:absolute;
+  	font-size: 72px;
+	left:50%;
+	top:50%;
+	transform: translate(-50%, -50%);
 }
 
 /* ---------------------------------------------- /*
