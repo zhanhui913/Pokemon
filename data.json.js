@@ -638,8 +638,8 @@ window["formatPokemonJSON"]([
         "id":58,
         "gen":1,
         "name":"Growlithe",
-        "src":"",
-        "thumbnail":"",
+        "src":"http://i.imgur.com/vAnTRpc.png",
+        "thumbnail":"http://i.imgur.com/vAnTRpcb.png",
         "type":[{
             "type":"grass"
         }],
@@ -649,8 +649,8 @@ window["formatPokemonJSON"]([
         "id":59,
         "gen":1,
         "name":"Arcanine",
-        "src":"http://i.imgur.com/vAnTRpc.png",
-        "thumbnail":"http://i.imgur.com/vAnTRpcb.png",
+        "src":"",
+        "thumbnail":"",
         "type":[{
             "type":"grass"
         }],
