@@ -1,6 +1,6 @@
 window["formatPokemonJSON"]([
     {
-        "id":1,
+        "id":001,
         "gen":1,
         "name":"Bulbasaur",
         "src":"http://i.imgur.com/gmQKM0t.png",
@@ -13,7 +13,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":2,
+        "id":002,
         "gen":1,
         "name":"Ivysaur",
         "src":"http://i.imgur.com/Vn6B4gE.png",
@@ -26,7 +26,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":3,
+        "id":003,
         "gen":1,
         "name":"Venusaur",
         "src":"http://i.imgur.com/f5LFR6m.png",
@@ -39,7 +39,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":4,
+        "id":004,
         "gen":1,
         "name":"Charmander",
         "src":"",
@@ -50,7 +50,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":5,
+        "id":005,
         "gen":1,
         "name":"Charmeleon",
         "src":"http://i.imgur.com/dWB2iS3.png",
@@ -61,7 +61,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":6,
+        "id":006,
         "gen":1,
         "name":"Charizard",
         "src":"http://i.imgur.com/OKXYsfy.png",
@@ -72,7 +72,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":7,
+        "id":007,
         "gen":1,
         "name":"Squirtle",
         "src":"http://i.imgur.com/6hc99aC.png",
@@ -83,7 +83,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":8,
+        "id":008,
         "gen":1,
         "name":"Wartortle",
         "src":"",
@@ -94,7 +94,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":9,
+        "id":009,
         "gen":1,
         "name":"Blastoise",
         "src":"",
@@ -105,7 +105,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":10,
+        "id":010,
         "gen":1,
         "name":"Caterpie",
         "src":"",
@@ -116,7 +116,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":11,
+        "id":011,
         "gen":1,
         "name":"Metapod",
         "src":"",
@@ -127,7 +127,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":12,
+        "id":012,
         "gen":1,
         "name":"Butterfree",
         "src":"http://i.imgur.com/u5pzd8t.png",
@@ -140,7 +140,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":13,
+        "id":013,
         "gen":1,
         "name":"Weedle",
         "src":"",
@@ -151,7 +151,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":14,
+        "id":014,
         "gen":1,
         "name":"Kakuna",
         "src":"",
@@ -162,7 +162,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":15,
+        "id":015,
         "gen":1,
         "name":"Beedrill",
         "src":"",
@@ -173,7 +173,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":16,
+        "id":016,
         "gen":1,
         "name":"Pidgey",
         "src":"",
@@ -184,7 +184,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":17,
+        "id":017,
         "gen":1,
         "name":"Pidgeotto",
         "src":"",
@@ -195,7 +195,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":18,
+        "id":018,
         "gen":1,
         "name":"Pidgeot",
         "src":"",
@@ -206,7 +206,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":19,
+        "id":019,
         "gen":1,
         "name":"Rattata",
         "src":"",
@@ -217,7 +217,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":20,
+        "id":020,
         "gen":1,
         "name":"Raticate",
         "src":"",
@@ -228,7 +228,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":21,
+        "id":021,
         "gen":1,
         "name":"Spearow",
         "src":"",
@@ -239,7 +239,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":22,
+        "id":022,
         "gen":1,
         "name":"Fearow",
         "src":"",
@@ -250,7 +250,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":23,
+        "id":023,
         "gen":1,
         "name":"Ekans",
         "src":"",
@@ -261,7 +261,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":24,
+        "id":024,
         "gen":1,
         "name":"Arbok",
         "src":"",
@@ -272,7 +272,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":25,
+        "id":025,
         "gen":1,
         "name":"Pikachu",
         "src":"",
@@ -283,7 +283,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":26,
+        "id":026,
         "gen":1,
         "name":"Raichu",
         "src":"",
@@ -294,7 +294,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":27,
+        "id":027,
         "gen":1,
         "name":"Sandshrew",
         "src":"",
@@ -305,7 +305,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":28,
+        "id":028,
         "gen":1,
         "name":"Sandslash",
         "src":"",
@@ -316,7 +316,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },    
     {
-        "id":29,
+        "id":029,
         "gen":1,
         "name":"Nidoran♀",
         "src":"",
@@ -327,7 +327,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":30,
+        "id":030,
         "gen":1,
         "name":"Nidorina",
         "src":"",
@@ -338,7 +338,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":31,
+        "id":031,
         "gen":1,
         "name":"Nidoqueen",
         "src":"",
@@ -349,7 +349,7 @@ window["formatPokemonJSON"]([
         "favourite":"false"
     },
     {
-        "id":32,
+        "id":032,
         "gen":1,
         "name":"Nidoran♂",
         "src":"",
