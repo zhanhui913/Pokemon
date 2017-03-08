@@ -1035,7 +1035,7 @@ window["formatPokemonJSON"]([
         "gen":1,
         "name":"Gengar",
         "src":"http://i.imgur.com/z12vy32.png",
-        "thumbnail":"http://i.imgur.com/z12vy32.png",
+        "thumbnail":"http://i.imgur.com/z12vy32b.png",
         "type":[{
             "type":"ghost"
         }],
